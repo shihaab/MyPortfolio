@@ -7,11 +7,32 @@
         <title>Shihaab Rouine</title>
 
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.typekit.net/ove6yqz.css">
         <!-- Stylesheets -->
         <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}"/>
     </head>
     <body>
-        <h1>hello world</h1>
+        <div class="wrapper-a">
+            <ul class="nav">
+                <li>
+                    <a href="">Curricula Vitae</a>
+                </li>
+                <li>
+                    <a href="">Portfolio's</a>
+                </li>
+                <li>
+                    <a href="">Projects</a>
+                </li>
+            </ul>
+            <div class="landing-title"><p>Shihaab</p> <p class="b">Rouine</p></div>
+        </div>
+        <div class="wrapper-b">
+            <div class="quoteme">
+                <p>Something that describes me</p>
+            </div>
+        </div>
+        <div class="wrapper-c">
+        
+        </div>
     </body>
 </html>

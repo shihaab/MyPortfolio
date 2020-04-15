@@ -1,3 +1,90 @@
-h1 {
-    font-family: monospace;
+/* 
+main bg color: #FBEE88
+second bg color: #C8C4FA
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #FBEE88;
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+.wrapper-a {
+    background-color: #FBEE88;
+    background: url("../img/background.svg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    padding: 35px;
+}
+.nav li {
+    display: inline;
+    padding: 0 30px;
+}
+.nav li a {
+    text-decoration: none;
+    color: black;
+    transition: .2s;
+}
+.nav li a:hover {
+    opacity: .5;
+}
+.landing-title {
+    display: inline-block;
+    font-family: century-gothic, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 17vw;
+    width: fit-content;
+    margin-top: 10vh;
+    color: black;
+    /* color: white; */
+	/* mix-blend-mode: difference; */
+}
+.landing-title .b {
+    text-align: right;
+}
+
+.wrapper-b {
+    background-color: #C8C4FA;
+    height: 100vh;
+    position: relative;
+}
+.quoteme {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.quoteme p {
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13vh;
+    text-align: right;
+    width: 100%;
+}
+
+.wrapper-c {
+    height: 100vh;
 }
