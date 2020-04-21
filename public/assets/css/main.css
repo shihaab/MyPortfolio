@@ -87,25 +87,24 @@ body {
 
 .wrapper-c {
     height: 100vh;
+    padding: 16vw;
 }
 .outcome {
     display: flex;
     justify-content: center;
-    padding: 16vw;
+}
+.outcome-firstimage, .outcome-secondimage {
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 75vh;
+    transition: .8s;
 }
 #interactive-media-firstimage {
-    background: url(../img/IMG_2045.JPG);
-    background-size: cover;
-    background-position: center;
-    width: 40%;
-    height: 790px;
+    background-image: url(../img/IMG_2045.JPG);
 }
 #interactive-media-secondimage {
-    background: url(../img/IMG_2037.JPG);
-    background-size: cover;
-    background-position: center;
-    width: 40%;
-    height: 790px;
+    background-image: url(../img/IMG_2037.JPG);
 }
 #interactive-media-header {
     width: 20%;
@@ -121,6 +120,13 @@ body {
     width: 100%;
     bottom: 1vw;
     text-align: left;
+    color: black;
+}
+.outcome:hover .outcome-firstimage {
+    transform: scale(1.2) translateX(-10vh) translateY(-5vh);
+}
+.outcome:hover .outcome-secondimage {
+    transform: scale(1.2) translateX(10vh) translateY(5vh);
 }
 
 /* outcome pages */

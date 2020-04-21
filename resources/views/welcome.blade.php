@@ -33,15 +33,11 @@
         </div>
         <div class="wrapper-c">
             <div class="outcome">
-                <div id="interactive-media-firstimage">
-                    
-                </div>
-                <div id="interactive-media-header">
+                <a href="interactive-media" class="outcome-firstimage" id="interactive-media-firstimage"></a>
+                <a href="interactive-media" id="interactive-media-header">
                     <h1>interactive media</h1>
-                </div>
-                <div id="interactive-media-secondimage">
-                    
-                </div>
+                </a>
+                <a href="interactive-media" class="outcome-secondimage" id="interactive-media-secondimage"></a>
             </div>
         </div>
     </body>
