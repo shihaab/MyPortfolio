@@ -32,7 +32,17 @@
             </div>
         </div>
         <div class="wrapper-c">
-        
+            <div class="outcome">
+                <div id="interactive-media-firstimage">
+                    
+                </div>
+                <div id="interactive-media-header">
+                    <h1>interactive media</h1>
+                </div>
+                <div id="interactive-media-secondimage">
+                    
+                </div>
+            </div>
         </div>
     </body>
 </html>
