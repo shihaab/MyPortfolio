@@ -27,11 +27,13 @@
             <div class="landing-title"><p>Shihaab</p> <p class="b">Rouine</p></div>
         </div>
         <div class="wrapper-b">
-            <div class="quoteme">
+            <!-- <div class="quoteme">
                 <p>Something that describes me</p>
-            </div>
+            </div> -->
+            <p>Something that describes me</p>
         </div>
         <div class="wrapper-c">
+            <!-- interactive media -->
             <div class="outcome">
                 <a href="interactive-media" class="outcome-firstimage" id="interactive-media-firstimage"></a>
                 <a href="interactive-media" id="interactive-media-header">
@@ -39,6 +41,14 @@
                 </a>
                 <a href="interactive-media" class="outcome-secondimage" id="interactive-media-secondimage"></a>
             </div>
+            <!-- development -->
+            <!-- <div class="outcome">
+                <a href="development" class="outcome-firstimage" id="development-firstimage"></a>
+                <a href="development" id="development-header">
+                    <h1>development</h1>
+                </a>
+                <a href="development" class="outcome-secondimage" id="development-secondimage"></a>
+            </div> -->
         </div>
     </body>
 </html>

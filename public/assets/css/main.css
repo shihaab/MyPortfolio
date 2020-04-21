@@ -67,22 +67,41 @@ body {
     background-color: #C8C4FA;
     height: 100vh;
     position: relative;
+
+    background-image: url("../img/IMG_2276.JPG");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
-.quoteme {
+/* .quoteme {
     margin: 0;
   position: absolute;
   top: 50%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-}
-.quoteme p {
+} */
+/* .quoteme p {
     font-family: futura-pt, sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 13vh;
     text-align: right;
     width: 100%;
+
+    color: white;
+    mix-blend-mode: difference;
+} */
+.wrapper-b p {
+    margin: 0;
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13vh;
+    text-align: right;
+    color: white;
+    mix-blend-mode: difference;
+    padding: 20vw;
 }
 
 .wrapper-c {
@@ -110,7 +129,7 @@ body {
     width: 20%;
     position: relative;
 }
-#interactive-media-header h1 {
+.outcome h1 {
     transform: rotate(-90deg);
     font-family: acier-bat-outline, sans-serif;
     font-weight: 400;
