@@ -141,13 +141,17 @@ body {
 }
 
 .wrapper-c {
-    height: 100vh;
+    min-height: 100vh;
     padding: 16vw;
 }
 .outcome {
     display: flex;
     justify-content: center;
     background-color: #FBEE88;
+    margin-bottom: 500px;
+}
+.outcome:last-of-type {
+    margin-bottom: 0;
 }
 .outcome-firstimage, .outcome-secondimage {
     background-size: cover;
@@ -160,18 +164,34 @@ body {
     background-image: url(../img/IMG_2045.JPG);
 }
 #interactive-media-secondimage {
-    background-image: url(../img/IMG_2037.JPG);
+    background-image: url(../img/Character_running_still.png);
 }
 #interactive-media-header {
     width: 20%;
     position: relative;
+}
+#interactive-media-header h1 {
+    font-size: 6vw;
+}
+#professional-identity-firstimage {
+    background-image: url(../img/IMG_2058.JPG);
+    image-orientation: 0deg;
+}
+#professional-identity-secondimage {
+    background-image: url(../img/IMG_2229.JPG);
+}
+#professional-identity-header {
+    width: 20%;
+    position: relative;
+}
+#professional-identity-header h1 {
+    font-size: 5.8vw;
 }
 .outcome h1 {
     transform: rotate(-90deg);
     font-family: acier-bat-outline, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 6vw;
     position: absolute;
     width: 100%;
     bottom: 1vw;
@@ -204,7 +224,7 @@ body {
     font-family: futura-pt, sans-serif;
     font-weight: 500;
     font-style: normal;
-    font-size: 7vh;
+    font-size: 3.7vw;;
     text-align: center;
     padding: 20px;
     position: absolute;
@@ -218,17 +238,16 @@ body {
 /* outcome pages */
 .head-outcome {
     width: 100vw;
-    height: 100vh;
+    height: 50vh;
 }
 .head-outcome h1 {
-    color: grey;
+    color: white;
     mix-blend-mode: difference;
     font-family: acier-bat-solid, sans-serif;
     font-weight: 400;
     font-style: normal;
     position: absolute;
     text-align: center;
-    transform: rotate(-90deg);
     line-height: 1;
     /* background-color: #232323; */
 }
@@ -239,13 +258,63 @@ body {
     background-attachment: fixed;
 }
 .head-outcome#interactive-media h1 {
-    font-size: 10vh;
-    right: -30vh;
-    top: 50vh;
+    font-size: 22vh;
+    right: 0;
+    width: 100%;
+    top: 15vh;
 }
 
 .info {
     width: 100vw;
     height: auto;
 
+}
+.quote {
+    font-family: century-gothic, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.quote::before {
+    content: "\201C";
+    font-size: 3em;
+}
+.quote::after {
+    content: "\201D";
+    font-size: 3em;
+}
+
+.commentary {
+    min-height: 80vh;
+    padding: 10vw 16vw;
+}
+.commentary-inner {
+    position: relative;
+}
+.commentary-text {
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    position: absolute;
+    font-size: 5vw;
+    top: 31vw;
+    max-width: 45vw;
+    text-align: left;
+}
+.commantary-firstimage {
+    background-image: url("../img/Character_running_still.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 50vw;
+    height: 30vw;
+    position: absolute;
+}
+.commantary-secondimage {
+    background-image: url("../img/S_Forest.00_00_00_16.Still002.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 25vw;
+    height: 25vw;
+    position: absolute;
+    right: 0;
+    top: 20vw;
 }

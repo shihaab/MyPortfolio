@@ -53,6 +53,14 @@
                 </a>
                 <a href="development" class="outcome-secondimage" id="development-secondimage"></a>
             </div> -->
+            <!-- professional-identity -->
+            <div class="outcome">
+                <a href="professional-identity" class="outcome-firstimage" id="professional-identity-firstimage"></a>
+                <a href="professional-identity" id="professional-identity-header">
+                    <h1>professional identity</h1>
+                </a>
+                <a href="professional-identity" class="outcome-secondimage" id="professional-identity-secondimage"></a>
+            </div>
         </div>
         <span class="cursor"></span>
         <div class="footer">

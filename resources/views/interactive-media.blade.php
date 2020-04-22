@@ -15,8 +15,12 @@
         <div class="head-outcome" id="interactive-media">
             <h1>interactive media</h1>
         </div>
-        <div class="info">
-            <h2></h2>
+        <div class="commentary">
+            <div class="commentary-inner">
+                <h2 class="commentary-text">Prototypes van interactieve media</h2>
+                <div class="commantary-firstimage"></div>
+                <div class="commantary-secondimage"></div>
+            </div>
         </div>
     </body>
 </html>
