@@ -6,11 +6,11 @@ second bg color: #C8C4FA
 * {
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
 }
 body {
     background-color: #FBEE88;
     text-align: center;
-    scroll-behavior: smooth;
 }
 
 ::-webkit-scrollbar {
@@ -22,6 +22,42 @@ body {
     background-size: cover;
     height: 100vh;
 }
+.scroll-down {
+    position: absolute;
+    width: 10vw;
+    left: 45vw;
+    bottom: -15px;
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+    color: black;
+    text-decoration: none;
+    animation: slideInDown 2s infinite forwards;
+    animation-timing-function: cubic-bezier(0, 0, 0.42, 1.24);
+}
+@keyframes pulse {
+    0%, 100% {
+        transform: translateY(1vh);
+    }
+    50% {
+        transform: translateY(5vh);
+    }
+}
+@keyframes slideInDown {
+    from {
+      -webkit-transform: translate3d(0, -100%, 0);
+      transform: translate3d(0, -100%, 0);
+      visibility: visible;
+      opacity: 1;
+    }
+  
+    to {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+      opacity: 0;
+    }
+  }
 
 .nav {
     list-style-type: none;
@@ -111,6 +147,7 @@ body {
 .outcome {
     display: flex;
     justify-content: center;
+    background-color: #FBEE88;
 }
 .outcome-firstimage, .outcome-secondimage {
     background-size: cover;
@@ -147,14 +184,44 @@ body {
 .outcome:hover .outcome-secondimage {
     transform: scale(1.2) translateX(10vh) translateY(5vh);
 }
+.outcome:hover h1 {
+    font-family: acier-bat-solid, sans-serif;
+}
+
+
+.footer {
+    height: 40vh;
+    width: 100vw;
+    background-image: url("../img/IMG_2228.JPG");
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: bottom;
+    filter: invert(100%);
+}
+.footer div {
+    color: #FBEE88;
+    mix-blend-mode: difference;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 7vh;
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    width: 50vw;
+    left: 25vw;
+    bottom: 10vh;
+    /* test */
+    background-color: brown;
+}
 
 /* outcome pages */
 .head-outcome {
     width: 100vw;
-    height: 50vh;
+    height: 100vh;
 }
 .head-outcome h1 {
-    color: white;
+    color: grey;
     mix-blend-mode: difference;
     font-family: acier-bat-solid, sans-serif;
     font-weight: 400;
@@ -163,7 +230,7 @@ body {
     text-align: center;
     transform: rotate(-90deg);
     line-height: 1;
-    background-color: #232323;
+    /* background-color: #232323; */
 }
 .head-outcome#interactive-media {
     background: url(../img/interactive-media.jpg);
