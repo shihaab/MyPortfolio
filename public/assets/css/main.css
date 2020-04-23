@@ -149,7 +149,7 @@ body::-webkit-scrollbar {
     display: flex;
     justify-content: center;
     background-color: #FBEE88;
-    margin-bottom: 500px;
+    margin-bottom: 30vh;
 }
 .outcome:last-of-type {
     margin-bottom: 0;
@@ -333,7 +333,7 @@ body::-webkit-scrollbar {
     text-align: right;
     white-space: normal;
 }
-.commantary-firstimage {
+.commentary-firstimage {
     background-image: url("../img/Character_running_still.jpg");
     background-size: cover;
     background-position: center;
@@ -341,7 +341,7 @@ body::-webkit-scrollbar {
     height: 30vw;
     position: absolute;
 }
-.commantary-secondimage {
+.commentary-secondimage {
     background-image: url("../img/S_Forest.00_00_00_16.Still002.jpg");
     background-size: cover;
     background-position: center;
@@ -352,7 +352,26 @@ body::-webkit-scrollbar {
     top: 20vw;
 }
 
-.commantary-video {
+.commentary-singleimage {
+    background-size: cover;
+    background-position: center;
+    width: 68vw;
+    height: 45vw;
+    position: absolute;
+}
+.commentary-singelimage-text {
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    position: absolute;
+    font-size: 3vw;
+    top: 40vw;
+    left: 2vw;
+    max-width: 44vw;
+    text-align: left;
+    white-space: normal;
+}
+.commentary-video {
     background-image: url("../img/IMG_2018.JPG");
     background-size: cover;
     background-position: center;
@@ -361,14 +380,14 @@ body::-webkit-scrollbar {
     position: absolute;
 }
 
-.commantary-small-video {
+.commentary-small-video {
     background-image: url("../img/IMG_2018.JPG");
     background-size: cover;
     background-position: center;
     width: 40vw;
     height: 22.51vw;
     position: absolute;
-    right: 0;
+    top: 23vw;
 }
 
 .scrolling-wrapper {
