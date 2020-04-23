@@ -21,8 +21,8 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <h2 class="commentary-text">Prototypes of interactive media</h2>
-                        <div class="commentary-firstimage"></div>
-                        <div class="commentary-secondimage"></div>
+                        <div style="background-image: url({{ asset('assets/img/Character_running_still.jpg') }});" class="commentary-firstimage"></div>
+                        <div style="background-image: url({{ asset('assets/img/S_Forest.00_00_00_16.Still002.jpg') }});" class="commentary-secondimage"></div>
                     </div>
                 </div>
             </div>
@@ -60,14 +60,14 @@
                         <div class="commentary-small-video">
                             <iframe style="width: 100%" height="100%" src="https://www.youtube.com/embed/I0WH2fulQlk?rel=0&controls=0&autoplay=1&loop=1&mute=1&playlist=I0WH2fulQlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
-                        <p class="commentary-p">Some sort of explanation why I made the choices I made... And some other context that can explain the visuals you seeing</p>
+                        <p class="commentary-p">Some sort of explanation why I made the choices I made... And some other context that can explain the visuals you are seeing</p>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <div class="commentary-singleimage" style="background-image: url({{ asset('assets/img/iteraties_fourth.png') }});"></div>
+                        <div style="background-image: url({{ asset('assets/img/iteraties_fourth.png') }});" class="commentary-singleimage"></div>
                         <h2 class="commentary-singelimage-text">Iterations of the Fourth logo</h2>
                     </div>
                 </div>
@@ -75,8 +75,9 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <div class="commentary-singleimage" style="background-image: url({{ asset('assets/img/iteraties2_fourth.png') }});"></div>
-                        <!-- <h2 class="commentary-singelimage-text">Prototypes of interactive media</h2> -->
+                        <div class="commentary-video">
+                            <iframe style="width: 100%" height="100%" src="https://www.youtube.com/embed/qF-vTw27VHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
                     </div>
                 </div>
             </div>

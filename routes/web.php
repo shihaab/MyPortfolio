@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/interactive-media', function () {
     return view('interactive-media');
 });
+
+Route::get('/development', function () {
+    return view('development');
+});

@@ -288,6 +288,19 @@ body::-webkit-scrollbar {
     top: 15vh;
 }
 
+.head-outcome#development {
+    background: url(../img/IMG_0582.JPG);
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+}
+.head-outcome#development h1 {
+    font-size: 22vh;
+    right: 0;
+    width: 100%;
+    top: 15vh;
+}
+
 .info {
     width: 100vw;
     height: auto;
@@ -313,6 +326,14 @@ body::-webkit-scrollbar {
 .commentary {
     min-height: 80vh;
     padding: 6.5vw 16vw;
+}
+.commentary h2 {
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 3vw;
+    text-align: left;
+    white-space: normal;
 }
 .commentary-inner {
     position: relative;
@@ -341,7 +362,6 @@ body::-webkit-scrollbar {
     white-space: normal;
 }
 .commentary-firstimage {
-    background-image: url("../img/Character_running_still.jpg");
     background-size: cover;
     background-position: center;
     width: 50vw;
@@ -349,7 +369,6 @@ body::-webkit-scrollbar {
     position: absolute;
 }
 .commentary-secondimage {
-    background-image: url("../img/S_Forest.00_00_00_16.Still002.jpg");
     background-size: cover;
     background-position: center;
     width: 25vw;
@@ -395,6 +414,16 @@ body::-webkit-scrollbar {
     height: 22.51vw;
     position: absolute;
     top: 23vw;
+}
+
+.commentary-codepen {
+    background-image: url("../img/codepen.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 68vw;
+    height: 45vw;
+    position: absolute;
 }
 
 .scrolling-wrapper {
