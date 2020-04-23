@@ -218,9 +218,16 @@ body::-webkit-scrollbar {
 .outcome:hover .outcome-firstimage {
     transform: scale(1.2) translateX(-10vh) translateY(-5vh);
 }
+.outcome:hover:nth-child(even) .outcome-firstimage {
+    transform: scale(1.2) translateX(-10vh) translateY(5vh);
+}
 .outcome:hover .outcome-secondimage {
     transform: scale(1.2) translateX(10vh) translateY(5vh);
 }
+.outcome:hover:nth-child(even) .outcome-secondimage {
+    transform: scale(1.2) translateX(10vh) translateY(-5vh);
+}
+
 .outcome:hover h1 {
     font-family: acier-bat-solid, sans-serif;
 }
