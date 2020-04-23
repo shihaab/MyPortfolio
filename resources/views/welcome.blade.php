@@ -46,13 +46,13 @@
                 <a href="interactive-media" class="outcome-secondimage" id="interactive-media-secondimage"></a>
             </div>
             <!-- development -->
-            <!-- <div class="outcome">
+            <div class="outcome">
                 <a href="development" class="outcome-firstimage" id="development-firstimage"></a>
                 <a href="development" id="development-header">
                     <h1>development</h1>
                 </a>
                 <a href="development" class="outcome-secondimage" id="development-secondimage"></a>
-            </div> -->
+            </div>
             <!-- professional-identity -->
             <div class="outcome">
                 <a href="professional-identity" class="outcome-firstimage" id="professional-identity-firstimage"></a>
