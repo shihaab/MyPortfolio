@@ -24,3 +24,11 @@ Route::get('/interactive-media', function () {
 Route::get('/development', function () {
     return view('development');
 });
+
+Route::get('/design', function () {
+    return view('design');
+});
+
+Route::get('/professional-identity', function () {
+    return view('professional-identity');
+});

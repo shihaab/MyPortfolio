@@ -17,11 +17,63 @@ body {
 body::-webkit-scrollbar {
     display: none;
 }
+
+.sidenav {
+    position: fixed;
+    bottom: 2vh;
+    left: -8vh;
+    transform: scale(0.8);
+}
+.sidenav ul {
+    list-style-type: none;
+    transform: rotate(-90deg);
+    transform-origin: left top;
+}
+.sidenav ul::before {
+    content: '';
+    width: 100%;
+    height: 3px;
+    background: white;
+    position: absolute;
+    left: 0;
+    top: 47%;
+    z-index: -1;
+}
+.sidenav li {
+    text-align: left;
+    width: min-intrinsic;
+    width: -webkit-min-content;
+    width: -moz-min-content;
+    width: min-content;
+    display: inline;
+    -ms-grid-columns: min-content;
+}
+.sidenav li a {
+    color: #C8C4FA;
+    transition: .2s;
+    text-decoration: none;
+    font-family: acier-bat-solid, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    padding: 0.6vh;
+    font-size: 2.6vh;
+}
+.sidenav ul li a.current {
+    background: black;
+    color: white;
+}
+.sidenav ul li a:hover {
+    background: black;
+    color: white;
+}
+
 .wrapper-a {
     background-color: #FBEE88;
     background: url("../img/background.svg");
     background-size: cover;
     height: 100vh;
+    position: relative;
 }
 .scroll-down {
     position: absolute;
@@ -105,7 +157,7 @@ body::-webkit-scrollbar {
     height: 100vh;
     position: relative;
 
-    background-image: url("../img/IMG_2276.JPG");
+    background-image: url(../img/compressed/IMG_2276.JPG);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -144,15 +196,13 @@ body::-webkit-scrollbar {
 .wrapper-c {
     min-height: 100vh;
     padding: 16vw;
+    padding-top: 0;
 }
 .outcome {
     display: flex;
     justify-content: center;
     background-color: #FBEE88;
-    margin-bottom: 30vh;
-}
-.outcome:last-of-type {
-    margin-bottom: 0;
+    padding-top: 30vh;
 }
 .outcome-firstimage, .outcome-secondimage {
     background-size: cover;
@@ -162,7 +212,7 @@ body::-webkit-scrollbar {
     transition: .8s;
 }
 #interactive-media-firstimage {
-    background-image: url(../img/IMG_2045.JPG);
+    background-image: url(../img/compressed/IMG_2045.JPG);
 }
 #interactive-media-secondimage {
     background-image: url(../img/Character_running_still.png);
@@ -176,10 +226,10 @@ body::-webkit-scrollbar {
 }
 
 #development-firstimage {
-    background-image: url(../img/IMG_0582.JPG);
+    background-image: url(../img/compressed/IMG_0582.JPG);
 }
 #development-secondimage {
-    background-image: url(../img/IMG_1905.JPG);
+    background-image: url(../img/compressed/IMG_1905.JPG);
 }
 #development-header {
     width: 20%;
@@ -190,12 +240,57 @@ body::-webkit-scrollbar {
     font-size: 6vw;
 }
 
+#design-firstimage {
+    background-image: url(../img/IMG_0256.JPG);
+}
+#design-secondimage {
+    background-image: url(../img/compressed/IMG_0549.JPG);
+}
+#design-header {
+    width: 20%;
+    position: relative;
+}
+#design-header h1 {
+    line-height: 2;
+    font-size: 6vw;
+}
+
+#research-firstimage {
+    background-image: url(../img/compressed/IMG_2093.JPG);
+}
+#research-secondimage {
+    background-image: url(../img/compressed/IMG_2280.JPG   );
+}
+#research-header {
+    width: 20%;
+    position: relative;
+}
+#research-header h1 {
+    line-height: 2;
+    font-size: 6vw;
+}
+
+#communication-firstimage {
+    background-image: url(../img/compressed/IMG_2084.JPG);
+}
+#communication-secondimage {
+    background-image: url(../img/compressed/IMG_2352.JPG);
+}
+#communication-header {
+    width: 20%;
+    position: relative;
+}
+#communication-header h1 {
+    line-height: 2;
+    font-size: 5vw;
+}
+
 #professional-identity-firstimage {
-    background-image: url(../img/IMG_2058.JPG);
+    background-image: url(../img/compressed/IMG_2058.JPG);
     image-orientation: 0deg;
 }
 #professional-identity-secondimage {
-    background-image: url(../img/IMG_2229.JPG);
+    background-image: url(../img/compressed/IMG_2229.JPG);
 }
 #professional-identity-header {
     width: 20%;
@@ -236,7 +331,7 @@ body::-webkit-scrollbar {
 .footer {
     height: 40vh;
     width: 100%;
-    background-image: url("../img/IMG_2228.JPG");
+    background-image: url(../img/compressed/IMG_2228.JPG);
     background-size: cover;
     background-position-x: center;
     background-position-y: bottom;
@@ -282,20 +377,46 @@ body::-webkit-scrollbar {
     background-attachment: fixed;
 }
 .head-outcome#interactive-media h1 {
-    font-size: 22vh;
+    font-size: 10vw;
     right: 0;
     width: 100%;
     top: 15vh;
 }
 
 .head-outcome#development {
-    background: url(../img/IMG_0582.JPG);
+    background: url(../img/compressed/IMG_0582.JPG);
     background-size: cover;
     background-position: bottom;
     background-attachment: fixed;
 }
 .head-outcome#development h1 {
-    font-size: 22vh;
+    font-size: 10vw;
+    right: 0;
+    width: 100%;
+    top: 15vh;
+}
+
+.head-outcome#design {
+    background: url(../img/compressed/IMG_0562.JPG);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.head-outcome#design h1 {
+    font-size: 12vw;
+    right: 0;
+    width: 100%;
+    top: 15vh;
+}
+
+.head-outcome#professional-identity {
+    background: url(../img/compressed/IMG_2276.JPG);
+    background-size: cover;
+    background-position: 0 -375px;;
+    background-attachment: fixed;
+}
+.head-outcome#professional-identity h1 {
+    font-size: 9vw;
     right: 0;
     width: 100%;
     top: 15vh;
@@ -382,7 +503,7 @@ body::-webkit-scrollbar {
     background-size: cover;
     background-position: center;
     width: 68vw;
-    height: 45vw;
+    height: 75vh;
     position: absolute;
 }
 .commentary-singelimage-text {
@@ -398,7 +519,7 @@ body::-webkit-scrollbar {
     white-space: normal;
 }
 .commentary-video {
-    background-image: url("../img/IMG_2018.JPG");
+    /* background-image: url(../img/compressed/IMG_2018.JPG); */
     background-size: cover;
     background-position: center;
     width: 68vw;
@@ -407,7 +528,7 @@ body::-webkit-scrollbar {
 }
 
 .commentary-small-video {
-    background-image: url("../img/IMG_2018.JPG");
+    background-image: url(../img/compressed/IMG_2018.JPG);
     background-size: cover;
     background-position: center;
     width: 40vw;
@@ -417,8 +538,7 @@ body::-webkit-scrollbar {
 }
 
 .commentary-codepen {
-    background-image: url("../img/codepen.png");
-    background-size: contain;
+    background-image: url(../img/loading.gif);
     background-position: center;
     background-repeat: no-repeat;
     width: 68vw;
@@ -426,7 +546,40 @@ body::-webkit-scrollbar {
     position: absolute;
 }
 
+.commentary-text-side {
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    position: absolute;
+    font-size: 5vw;
+    top: 0vw;
+    max-width: 31vw;
+    text-align: left;
+    white-space: normal;
+}
+h2.commentary-text-side {
+    font-size: 6.6vw;
+}
+.commentary-image-side {
+    background-size: cover;
+    background-position: center;
+    width: 35vw;
+    height: 40vw;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.slide{
+	opacity: 0;
+	z-index: 1;
+}
+.showing {
+	opacity: 1;
+	z-index: 2;
+}
+
 .scrolling-wrapper {
+    position: relative;
     overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
@@ -455,4 +608,9 @@ body::-webkit-scrollbar {
 .card {
     width: 100vw;
     min-height: 100vh;
+}
+.button-n {
+    position: absolute;
+    right: 0;
+    bottom: 0;
 }
