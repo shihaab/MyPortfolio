@@ -354,7 +354,12 @@ body::-webkit-scrollbar {
     background-color: brown;
 }
 
-/* outcome pages */
+/* outcome pages 
+===========================================================================================================
+===========================================================================================================
+===========================================================================================================
+*/
+
 .head-outcome {
     width: 100%;
     height: 50vh;
@@ -369,6 +374,24 @@ body::-webkit-scrollbar {
     text-align: center;
     line-height: 1;
     /* background-color: #232323; */
+}
+.head-outcome .goBack {
+    position: fixed;
+    font-family: century-gothic, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2vw;
+    width: 9vw;
+    left: 0;
+    color: #000000;
+    mix-blend-mode: difference;
+    text-decoration: none;
+    background-color: white;
+    transition: .4s;
+    z-index: 5;
+}
+.head-outcome .goBack:hover {
+    color: #ccb0e1;
 }
 .head-outcome#interactive-media {
     background: url(../img/interactive-media.jpg);
@@ -445,7 +468,7 @@ body::-webkit-scrollbar {
     display: inline-block;
 }
 .commentary {
-    min-height: 80vh;
+    /* min-height: 80vh; */
     padding: 6.5vw 16vw;
 }
 .commentary h2 {
@@ -496,14 +519,14 @@ body::-webkit-scrollbar {
     height: 25vw;
     position: absolute;
     right: 0;
-    top: 20vw;
+    bottom: -80vh;
 }
 
 .commentary-singleimage {
     background-size: cover;
     background-position: center;
     width: 68vw;
-    height: 75vh;
+    height: 80vh;
     position: absolute;
 }
 .commentary-singelimage-text {
@@ -512,18 +535,20 @@ body::-webkit-scrollbar {
     font-style: normal;
     position: absolute;
     font-size: 3vw;
-    top: 40vw;
-    left: 2vw;
+    top: 70vh;
+    left: 0;
     max-width: 44vw;
     text-align: left;
     white-space: normal;
+    background-color: #fbee88;
+    padding: 15px;
 }
 .commentary-video {
     /* background-image: url(../img/compressed/IMG_2018.JPG); */
     background-size: cover;
     background-position: center;
     width: 68vw;
-    height: 45vw;
+    height: 80vh;
     position: absolute;
 }
 
@@ -534,7 +559,7 @@ body::-webkit-scrollbar {
     width: 40vw;
     height: 22.51vw;
     position: absolute;
-    top: 23vw;
+    bottom: -80vh;
 }
 
 .commentary-codepen {
@@ -542,7 +567,7 @@ body::-webkit-scrollbar {
     background-position: center;
     background-repeat: no-repeat;
     width: 68vw;
-    height: 45vw;
+    height: 80vh;
     position: absolute;
 }
 
@@ -564,7 +589,7 @@ h2.commentary-text-side {
     background-size: cover;
     background-position: center;
     width: 35vw;
-    height: 40vw;
+    height: 80vh;
     position: absolute;
     right: 0;
     top: 0;
@@ -576,6 +601,21 @@ h2.commentary-text-side {
 .showing {
 	opacity: 1;
 	z-index: 2;
+}
+.p-top {
+    padding-top: 5%;
+}
+.text-wrapper {
+    padding-left: 16%;
+    padding-right: 16%;
+}
+.text-inner {
+    font-family: futura-pt, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 2vw;
+    text-align: left;
+    white-space: normal;
 }
 
 .scrolling-wrapper {

@@ -13,6 +13,7 @@
     </head>
     <body>
         <div class="head-outcome" id="design">
+            <a href="/" class="goBack">Shihaab Rouine</a>
             <h1>design</h1>
         </div>
 
@@ -39,6 +40,47 @@
                     <div class="commentary-inner">
                         <div class="commentary-video">
                             <iframe style="width: 100%; height: 100%;" src="https://xd.adobe.com/embed/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="scrolling-wrapper" id="wrapper-2">
+        <span style="
+        position: absolute;
+        bottom: 91px;
+        left: 120px;
+        font-size: 2em;
+        font-weight: bold;
+        font-family: monospace;
+        z-index: 1;
+        transform: scale(1.5);
+        opacity: .5;
+        "><kbd style="
+        color: white;
+        background-color: black;
+        border-radius: 5px;
+        padding: 5px 7px;
+        ">Shift</kbd> + <kbd style="
+        color: white;
+        background-color: black;
+        border-radius: 5px;
+        padding: 5px 7px;
+        ">Scroll</kbd></span>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <h2 class="commentary-text">Borderline - digital strategy game</h2>
+                        <div style="background-image: url({{ asset('assets/img/dansman3.png') }});" class="commentary-firstimage"></div>
+                        <div style="background-image: url({{ asset('assets/img/dansman2.png') }});" class="commentary-secondimage"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <div class="commentary-video">
+                            <iframe style="width: 100%" height="100%" src="https://www.youtube.com/embed/qF-vTw27VHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
@@ -72,6 +114,23 @@
                 }
                 else if(element.scrollLeft <= 0) {
                     vWrapper1 = false;
+                }
+            }
+            var vWrapper2 = false;
+            function wrapper2() {
+                var element = document.getElementById("wrapper-2");
+                if(!vWrapper2){
+                    let scrollTop = window.scrollY,
+                    elementOffset = element.offsetTop,
+                    distance = (elementOffset - scrollTop);
+                    // console.log(distance);
+                    if(distance < 100) {
+                        vWrapper2 = true;
+                        scrollTo('wrapper-2', '500', '1500')
+                    }
+                }
+                else if(element.scrollLeft <= 0) {
+                    vWrapper2 = false;
                 }
             }
 

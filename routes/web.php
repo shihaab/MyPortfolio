@@ -32,3 +32,11 @@ Route::get('/design', function () {
 Route::get('/professional-identity', function () {
     return view('professional-identity');
 });
+
+Route::get('/selfportrait-old', function () {
+    return view('selfportrait-old');
+});
+
+Route::get('/selfportrait', function () {
+    return view('selfportrait');
+});

@@ -13,14 +13,18 @@
     </head>
     <body>
         <div class="head-outcome" id="professional-identity">
+            <a href="/" class="goBack">Shihaab Rouine</a>
             <h1>professional identity</h1>
         </div>
 
-        <div class="scrolling-wrapper" id="wrapper-1">
+        <div style="overflow-x: hidden;" class="scrolling-wrapper" id="wrapper-1">
             <div class="card">
                 <div class="commentary">
-                    <div class="commentary-inner">
-                        <h2 class="commentary-text-side">Shihaab, a closer look</h2>
+                    <div class="commentary-inner" style="height: 80vh">
+                        <h2 style="position:unset;" class="commentary-text-side">Shihaab, a closer look</h2>
+                        <p style="font-family: futura-pt, sans-serif;font-weight: 500;font-style: normal;font-size: 3vw;text-align: right;white-space: normal;max-width: 31vw;bottom: 0;position: absolute;">
+                            My personal and professional growth over the period of this semester
+                        </p>
                         <div style="background-image: url({{ asset('assets/img/compressed/slide.gif') }});" class="commentary-image-side"></div>
                     </div>
                 </div>

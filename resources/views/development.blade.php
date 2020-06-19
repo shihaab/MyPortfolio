@@ -13,6 +13,7 @@
     </head>
     <body>
         <div class="head-outcome" id="development">
+            <a href="/" class="goBack">Shihaab Rouine</a>    
             <h1>development</h1>
         </div>
 
@@ -54,10 +55,7 @@
         <div class="commentary-wrapper">
             <div class="commentary">
             <h2>Github version control</h2>
-                <div class="commentary-inner">
-                    <div style="background-image: url({{ asset('assets/img/old_commits.png') }}); background-size: contain; background-repeat: no-repeat" class="commentary-singleimage"></div>
-                    <!-- <h2 class="commentary-singelimage-text">Last commits</h2> -->
-                </div>
+            <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/shihaab/MyPortfolio" data-iframely-url="//cdn.iframe.ly/QfBZ3lp"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
             </div>
         </div>
         <div class="footer" style="background-image: url({{ asset('assets/img/IMG_0966.JPG') }});filter: url();background-position-y: center;">

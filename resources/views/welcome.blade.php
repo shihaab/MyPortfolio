@@ -105,9 +105,9 @@
             </div>
         </div>
         <span class="cursor"></span>
-        <div class="footer">
-            <div>the never ending cycle of learning</div>
-        </div>
+            <div class="footer">
+                <div>the never ending cycle of learning</div>
+            </div>
         <script>
             let mainNavLinks = document.querySelectorAll("nav ul li a");
             let mainSections = document.querySelectorAll("main section");
