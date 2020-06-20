@@ -29,6 +29,14 @@ Route::get('/design', function () {
     return view('design');
 });
 
+Route::get('/research', function () {
+    return view('research');
+});
+
+Route::get('/communication', function () {
+    return view('communication');
+});
+
 Route::get('/professional-identity', function () {
     return view('professional-identity');
 });
