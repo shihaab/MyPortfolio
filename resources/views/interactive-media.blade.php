@@ -101,7 +101,7 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <h2 class="commentary-text"><a class="link" target="_blank" href="/selfportrait">/selfportrait</a></h2>
+                        <h2 class="commentary-text">Resultaat: <a class="link" target="_blank" href="/selfportrait">/selfportrait</a></h2>
                         <p style="top:0;" class="commentary-p">Achteraf bleek dat je in Eko zelf een editor had en je redelijk gemakkelijk zo’n gelijk soort video kan maken als die van Major Lazer. Maar ik ben uiteindelijk toch blij dat ik heb gekozen om dit zelf te ontwikkelen aangezien ik ervan heb geleerd.</p>
                     </div>
                 </div>
