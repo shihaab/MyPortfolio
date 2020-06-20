@@ -19,14 +19,15 @@
 
         <div class="text-wrapper p-top">
             <div class="text-inner">
-                <p>Ik werk bij een detacheringsbureau voor programmeurs, de eigenaar heeft mij gevraagd om een platform te maken waar alle programmeurs de gewerkte uren kunnen invullen en de weekplanning kunnen inzien. De eigenaar van het bureau kan dan ook via dit platform de uren inzien en uitprinten.</p>
+                <h1>MyBrogrammers</h1>
+                <p>Ik werk bij een detacheringsbureau voor programmeurs, de eigenaar heeft mij gevraagd om een platform te maken waar alle programmeurs de gewerkte uren kunnen invullen en de weekplanning kunnen inzien. De eigenaar van het bureau kan dan ook via dit platform de uren inzien en uitprinten.<br>Dit detacheringsbureau heet "Brogrammers" en dit platform dat moest worden gemaakt heet "MyBrogrammers".</p>
             </div>
         </div>
         <div class="scrolling-wrapper" id="wrapper-1">
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <h2 class="commentary-text">MyBrogrammers</h2>
+                        <h2 class="commentary-text">MyBrogrammers applicatie - Wireframe hier rechts</h2>
                         <p class="commentary-p">Om de visie van de klant duidelijk te hebben heb ik als eerste een plan van aanpak gemaakt voordat ik begon met realiseren. Hierin heb ik een functioneel ontwerp geschreven waar alle schermen op staan in een geschreven wireframe.</p>
                     </div>
                 </div>
@@ -34,16 +35,8 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <div style="background-image: url({{ asset('assets/img/trailer_iterations.jpg') }});background-size: contain;background-repeat: no-repeat;" class="commentary-singleimage"></div>
-                        <h2 class="commentary-singelimage-text">Game trailer storyboard</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="commentary">
-                    <div class="commentary-inner">
                         <div class="commentary-video">
-                        <iframe style="width: 100%" height="100%" src="https://www.youtube-nocookie.com/embed/fvDJyErXOkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe style="width: 100%; height: 100%;" src="https://xd.adobe.com/embed/8b47a662-86c7-49d1-6160-fa2c4d8445eb-fd76/" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
@@ -51,8 +44,8 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <h2 class="commentary-text">Fourth - fictional game trailer</h2>
-                        <p class="commentary-p">Some sort of explanation why I made the choices I made... And some other context that explains the visuals you saw before</p>
+                        <h2 class="commentary-text">Nieuwe versie wireframe hier rechts</h2>
+                        <p class="commentary-p">Ik heb de eindgebruikers (de werknemers/collega’s) gevraagd om feedback te geven op de wireframe en hier kwam veel uit. Met al deze opmerkingen heb ik een nieuwe wireframe gemaakt en opnieuw voorgelegd en nu ook voor de opdrachtgever.</p>
                     </div>
                 </div>
             </div>
@@ -60,76 +53,69 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <div class="commentary-video">
-                            <iframe style="width: 100%" height="100%" src="https://www.youtube.com/embed/Jz5CyegPanA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe style="width: 100%; height: 100%;" src="https://xd.adobe.com/embed/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/" frameborder="0" allowfullscreen></iframe>
                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <h2 class="commentary-text">Met dit design was de opdrachtgever blij en kon ik beginnen met realiseren.</h2>
+                        <div style="background-image: url({{ asset('assets/img/screenshot_mybrogrammers_1.png') }});" class="commentary-firstimage"></div>
+                        <div style="background-image: url({{ asset('assets/img/screenshot_mybrogrammers_2.png') }});background-position: left;" class="commentary-secondimage"></div>
                     </div>
                 </div>
             </div>
         </div>
-
+        <div class="text-wrapper p-top">
+            <div class="text-inner">
+                <h1>Selfie week - Selfportrait</h1>
+                <p>In de selfie week werd ons gevraagd om een zelfportret te maken. Ik heb de eerste dag alleen maar nagedacht over wat ik wilde maken. Toen kwam ik bij het idee om een interactieve video te maken omdat dit een van de voorbeelden was. Ik heb online gekeken naar interactieve video’s, ik kwam op Netflix series zoals You vs. Wild en Black Mirror: Bandersnatch. Ik heb deze beide al gezien/gespeeld en vond dit heel vet. Hier wilde ik iets mee doen. Ik heb meer onderzocht en vond een <a class="link" target="_blank" href="https://eko.com/v/major-lazer">video van Major Lazer “Know no better”</a>, dit is een muziekvideo. Dit stond op de website Eko. In de video gaat het om het leven van een jongen en door te klikken op de video switch je tussen de realiteit van de jongen en zijn droom. Dit sprak me aan en kreeg het idee om ook zoiets te maken. In plaats van de realiteit en droom koos ik om iets wat ik leuk vind en iets wat ik verdrietig vind te visualiseren. Ik vind dat dit de persoon maakt die ik ben, en de opdracht luid: maak een zelfportret (Iets dat mijzelf beschrijft).</p>
+            </div>
+        </div>
         <div class="scrolling-wrapper" id="wrapper-1">
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <h2 class="commentary-text">Fourth - fictional game trailer</h2>
-                        <div style="background-image: url({{ asset('assets/img/Character_running_still.jpg') }});" class="commentary-firstimage"></div>
-                        <div style="background-image: url({{ asset('assets/img/S_Forest.00_00_00_16.Still002.jpg') }});" class="commentary-secondimage"></div>
+                        <div style="background-image: url({{ asset('assets/img/foto_portret_schets.png') }});background-size: contain;background-repeat: no-repeat;background-position: left;" class="commentary-singleimage"></div>
+                        <p style="max-width: 37vw;top: 0;" class="commentary-p">Hier links zie je een foto van mijn notitieboek, hier had ik opgeschreven wat mijn plan was met dit idee. Ik had opgeschreven wat mijn zelfportret moest uitstralen, waar ik blij en verdrietig van wordt. </p>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <h2 class="commentary-text">Fourth - fictional game trailer</h2>
-                        <p class="commentary-p">Some sort of explanation why I made the choices I made... And some other context that explains the visuals you saw before</p>
+                        <div style="background-image: url({{ asset('assets/img/foto_portret_timeline.png') }});background-size: contain;background-repeat: no-repeat;background-position: bottom;width: 47vw;" class="commentary-singleimage"></div>
+                        <p style="max-width: 100vw;text-align: right;top:0;" class="commentary-p">Het leek me een leuk idee om dit zelf te maken met javascript, aangezien ik al had bedacht hoe het zou werken. Dit was de eerste keer dat ik een HTML-video en Javascript samen heb gebruikt op een website.Ik ben dus wel trots ik de pagina helemaal van scratch heb gemaakt en ieder onderdeel zelf heb geschreven. En ook de video zelf heb geëdit.</p>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <div style="background-image: url({{ asset('assets/img/trailer_iterations.jpg') }});background-size: contain;background-repeat: no-repeat;" class="commentary-singleimage"></div>
-                        <h2 class="commentary-singelimage-text">Game trailer storyboard</h2>
+                        <p style="top:7vw;left:0;text-align:left;max-width:100vw;" class="commentary-p">Het switch effect was erg simpel, twee lagen van video en als je klikt verdwijn je de bovenste laag. Ik heb dus twee video’s, een blije en een verdrietige, opgenomen. Ieder heeft drie delen om zo wat meer voorbeelden te geven. Ook heb ik het kleine logo gemaakt, de twee smileys die samensmelten. Dit heb ik in Illustrator gemaakt.</p>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <div class="commentary-video">
-                        <iframe style="width: 100%" height="100%" src="https://www.youtube-nocookie.com/embed/fvDJyErXOkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="commentary">
-                    <div class="commentary-inner">
-                        <h2 class="commentary-text">Fourth - fictional game trailer</h2>
-                        <p class="commentary-p">Some sort of explanation why I made the choices I made... And some other context that explains the visuals you saw before</p>
-                    </div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="commentary">
-                    <div class="commentary-inner">
-                        <div class="commentary-video">
-                            <iframe style="width: 100%" height="100%" src="https://www.youtube.com/embed/Jz5CyegPanA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </div>
+                        <h2 class="commentary-text"><a class="link" target="_blank" href="/selfportrait">/selfportrait</a></h2>
+                        <p style="top:0;" class="commentary-p">Achteraf bleek dat je in Eko zelf een editor had en je redelijk gemakkelijk zo’n gelijk soort video kan maken als die van Major Lazer. Maar ik ben uiteindelijk toch blij dat ik heb gekozen om dit zelf te ontwikkelen aangezien ik ervan heb geleerd.</p>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="scrolling-wrapper" id="wrapper-2">
+        <div class="scrolling-wrapper" id="wrapper-1">
         <span style="
         position: absolute;
-        bottom: 91px;
-        left: 120px;
+        bottom: 25px;
+        left: 85px;
         font-size: 2em;
         font-weight: bold;
         font-family: monospace;
         z-index: 1;
-        transform: scale(1.5);
         opacity: .5;
         "><kbd style="
         color: white;
@@ -145,29 +131,58 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <div class="commentary-small-video">
-                            <iframe style="width: 100%" height="100%" src="https://www.youtube.com/embed/I0WH2fulQlk?rel=0&controls=0&autoplay=1&loop=1&mute=1&playlist=I0WH2fulQlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </div>
-                        <p class="commentary-p">Logo animation process of fictional game Fourth</p>
+                        <p style="max-width: 100vw;top: 39vh;font-size: 2.5vw;text-align: left;" class="commentary-p">Het probleem waar ik gelijk mee zat toen ik het ging opleveren was tijd. Je kunt in het derde verdrietige deel van de video de tijd zien, je zelfportret moest vrijdag 29 mei om 13:00 ingeleverd worden… Maar het eerste deel was al de tweede dag van het traject opgenomen. Het gebrek aan tijd lag vooral aan het twijfelen wat ik precies wilde opnemen, dit had ik beter van tevoren kunnen vaststellen.</p>
+                        <div style="background-image: url({{ asset('assets/img/foto_portret_tijd.png') }});width: 100%;height: 35vh;" class="commentary-firstimage"></div>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <div style="background-image: url({{ asset('assets/img/iteraties_fourth.png') }});" class="commentary-singleimage"></div>
-                        <h2 class="commentary-singelimage-text">Iterations of the Fourth logo</h2>
+                        <p style="top:5vw;left:0;text-align:left;max-width:100vw;" class="commentary-p"><span class="highlight">Wat ik de volgende keer anders ga doen:</span> Een storyboard maken voordat ik begin met filmen, zodat ik een duidelijk en vast beeld heb om te volgen. Dit helpt je dat je aan het einde van filmen ook daadwerkelijk een verhaal hebt zoals je ingedacht had. Want wat ik merkte was dat ik niet precies wist wat we moesten filmen aangezien er geen verhaal op papier zat. En het hielp dan ook niet dat ik zelf de camera niet vasthad.</p>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <div class="commentary-video">
-                            <iframe style="width: 100%" height="100%" src="https://www.youtube.com/embed/I0WH2fulQlk?rel=0&controls=0&autoplay=1&loop=1&mute=1&playlist=I0WH2fulQlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </div>
+                        <p style="top:5vw;left:0;text-align:left;max-width:100vw;" class="commentary-p">Een ander probleem was dat ik het eerste deel van het verdrietige stukje nog niet had gefilmd. En had ik een foto daar neergezet. Dus het probleem was dat de gebruiker de video voor het eerst ziet en dan maar een video ziet en een foto. En omdat er geen “seeker” of tijdbalk inzit ziet de gebruiker niet hoelang de video duurt en denkt hij/zij misschien dat er niet meer is dan de video en foto. Dan is de eerste indruk niet zoals ik bedoeld heb.</p>
                     </div>
                 </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <p style="top:5vw;left:0;text-align:left;max-width:100vw;" class="commentary-p"><span class="highlight">Wat ik hiervan heb geleerd:</span> Focus je op wat de gebruiker eerst ziet en zorg dat er een duidelijk beeld is van het begin, dan is het concept gelijk duidelijk. En ik ga de volgende keer een storyboard maken met een concreet verhaal dat ik wil vertellen. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="text-wrapper p-top">
+            <div class="text-inner">
+                <h1>Iteraties</h1>
+                <p>De wireframe van My Brogrammers versie 1 naar versie 2: 
+                    <ol>
+                        <li><a class="link" target="_blank" href="https://xd.adobe.com/view/8b47a662-86c7-49d1-6160-fa2c4d8445eb-fd76/grid">xd.adobe/versie1</a></li>
+                        <li><a class="link" target="_blank" href="https://xd.adobe.com/view/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/grid">xd.adobe/versie2</a></li>
+                    </ol>
+                    De iteratie is gemaakt op basis van feedback van de eindgebruikers, de communicatie ging via whatsapp, mail en de commentaar sectie op Abobe XD.
+                    <br><br>Ook heb ik iteraties gemaakt tijdens het proces van dit portfolio, dit is te vinden in het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a>.
+                </p>
+            </div>
+        </div>
+        <div class="text-wrapper p-top">
+            <div class="text-inner">
+                <h1>Gebruikersonderzoek</h1>
+                <p>Een A/B test: <a class="link" target="_blank" href="https://xd.adobe.com/view/569b4bfa-c197-4586-70d4-0664d251a863-20aa/">xd.adobe/onderzoek</a>
+                </p>
+            </div>
+        </div>
+        <div style="margin-bottom: 20vh;" class="text-wrapper p-top">
+            <div class="text-inner">
+                <h1>Voorbeelden uit het vakgebied</h1>
+                <p>Ook de voorbeelden uit het vakgebied heb ik verzameld in het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a>.</p>
             </div>
         </div>
         
