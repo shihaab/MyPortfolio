@@ -369,6 +369,9 @@ body::-webkit-scrollbar {
     text-decoration-line: underline;
     text-decoration-style: dotted;
 }
+.quote {
+
+}
 .link {
     text-decoration: none;
     color: #b0a9ff;
@@ -474,17 +477,19 @@ ol li {
 
 }
 .quote {
-    font-family: century-gothic, sans-serif;
-    font-weight: 700;
+    /* font-family: century-gothic, sans-serif; */
+    font-weight: 500;
     font-style: normal;
 }
 .quote::before {
     content: "\201C";
-    font-size: 3em;
+    color: #C8C4FA;
+    font-size: 1.3em;
 }
 .quote::after {
     content: "\201D";
-    font-size: 3em;
+    color: #C8C4FA;
+    font-size: 1.3em;
 }
 .commentary-wrapper {
     width: 100vw;
@@ -639,6 +644,23 @@ h2.commentary-text-side {
     font-size: 2vw;
     text-align: left;
     white-space: normal;
+}
+.pdf-wrapper {
+    padding-left: 16%;
+    padding-right: 16%;
+}
+.pdf-inner {
+    font-family: futura-pt, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 1vw;
+    text-align: left;
+    white-space: normal;
+    position: relative;
+}
+.pdf-text {
+    position: absolute;
+    top: -5.6vh;
 }
 
 .scrolling-wrapper {
