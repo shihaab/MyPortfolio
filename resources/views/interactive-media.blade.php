@@ -167,7 +167,7 @@
                         <li><a class="link" target="_blank" href="https://xd.adobe.com/view/8b47a662-86c7-49d1-6160-fa2c4d8445eb-fd76/grid">xd.adobe/versie1</a></li>
                         <li><a class="link" target="_blank" href="https://xd.adobe.com/view/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/grid">xd.adobe/versie2</a></li>
                     </ol>
-                    De iteratie is gemaakt op basis van feedback van de eindgebruikers, de communicatie ging via whatsapp, mail en de commentaar sectie op Abobe XD.
+                    De iteratie is gemaakt op basis van feedback van de eindgebruikers, de communicatie ging via whatsapp, mail en de commentaar sectie op Adobe XD.
                     <br><br>Ook heb ik iteraties gemaakt tijdens het proces van dit portfolio, dit is te vinden in het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a>.
                 </p>
             </div>
