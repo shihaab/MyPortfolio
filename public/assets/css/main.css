@@ -661,6 +661,10 @@ h2.commentary-text-side {
 .pdf-text {
     position: absolute;
     top: -5.6vh;
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    text-align: left;
+    white-space: normal;
 }
 
 .scrolling-wrapper {
@@ -729,4 +733,23 @@ h2.commentary-text-side {
     position: absolute;
     right: 0;
     bottom: 0;
+}
+
+b.library {
+    color: #a8ce3b;
+}
+b.field {
+    color: #52c3c4;
+}
+b.lab {
+    color: #797dbc;
+}
+b.showroom {
+    color: #ffd11d;
+}
+b.workshop {
+    color: #25bfed;
+}
+b.stepping-stones {
+    color: #ef4e8c;
 }
