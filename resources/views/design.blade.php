@@ -138,7 +138,7 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <p style="top:0;left:0;text-align:left;max-width:100vw;" class="commentary-p"><span class="quote">Goed dat je met drie video's je proces laat zien en het lijkt mij prima geslaagd. Die met dat rode vlak slaat nergens op maar die cool is weer wel goed geslaagd. Wat mij betreft is deze opdracht prima.</span> – Joris Ariëns
+                        <p style="top:0;left:0;text-align:left;max-width:100vw;" class="commentary-p"><span class="quote">Goed dat je met drie video's je proces laat zien en het lijkt mij prima geslaagd... ...Wat mij betreft is deze opdracht prima.</span> – Joris Ariëns
                         <br>Hierboven staat feedback van Joris over de opdrachten van de specialisatie mediatechnieken. Hiermee toon ik aan dat het erkend wordt door mensen uit het vakgebied.</p>
                     </div>
                 </div>
