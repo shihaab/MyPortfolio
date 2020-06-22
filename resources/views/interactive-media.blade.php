@@ -131,7 +131,7 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <p style="max-width: 100vw;top: 39vh;font-size: 2.5vw;text-align: left;" class="commentary-p">Het probleem waar ik gelijk mee zat toen ik het ging opleveren was tijd. Je kunt in het derde verdrietige deel van de video de tijd zien, je zelfportret moest vrijdag 29 mei om 13:00 ingeleverd worden… Maar het eerste deel was al de tweede dag van het traject opgenomen. Het gebrek aan tijd lag vooral aan het twijfelen wat ik precies wilde opnemen, dit had ik beter van tevoren kunnen vaststellen.</p>
+                        <p style="max-width: 100vw;top: 39vh;font-size: 2.5vw;text-align: left;" class="commentary-p">Het probleem waar ik gelijk mee zat toen ik het ging opleveren was tijd. Je kunt in het derde verdrietige deel van de video de tijd zien, je zelfportret moest vrijdag 29 mei om 13:00 ingeleverd worden (foto). Het eerste deel was al de tweede dag van het traject opgenomen. Het gebrek aan tijd lag vooral aan het twijfelen wat ik precies wilde opnemen, dit had ik beter van tevoren kunnen vaststellen.</p>
                         <div style="background-image: url({{ asset('assets/img/foto_portret_tijd.png') }});width: 100%;height: 35vh;" class="commentary-firstimage"></div>
                     </div>
                 </div>
