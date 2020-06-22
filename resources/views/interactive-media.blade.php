@@ -20,7 +20,7 @@
         <div class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>MyBrogrammers</h1>
-                <p>Ik werk bij een detacheringsbureau voor programmeurs, de eigenaar heeft mij gevraagd om een platform te maken waar alle programmeurs de gewerkte uren kunnen invullen en de weekplanning kunnen inzien. De eigenaar van het bureau kan dan ook via dit platform de uren inzien en uitprinten.<br>Dit detacheringsbureau heet "Brogrammers" en dit platform dat moest worden gemaakt heet "MyBrogrammers".</p>
+                <p>Ik werk bij een detacheringsbureau voor programmeurs, de eigenaar heeft mij gevraagd om een platform te maken waar alle programmeurs de gewerkte uren kunnen invullen en de weekplanning kunnen inzien. De eigenaar van het bureau kan dan ook via dit platform de uren inzien en uitprinten.<br>Dit detacheringsbureau heet "Brogrammers" en het door mijn gemaakte platform heet "MyBrogrammers".</p>
             </div>
         </div>
         <div class="scrolling-wrapper" id="wrapper-1">
@@ -45,7 +45,7 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <h2 class="commentary-text">Nieuwe versie wireframe hier rechts</h2>
-                        <p class="commentary-p">Ik heb de eindgebruikers (de werknemers/collega’s) gevraagd om feedback te geven op de wireframe en hier kwam veel uit. Met al deze opmerkingen heb ik een nieuwe wireframe gemaakt en opnieuw voorgelegd en nu ook voor de opdrachtgever.</p>
+                        <p class="commentary-p">Ik heb de eindgebruikers (de werknemers/collega’s) gevraagd om feedback te geven op de wireframe. Omdat er veel uitkwam heb ik een nieuwe wireframe gemaakt en opnieuw voorgelegd en nu ook voor de opdrachtgever.</p>
                     </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@
         <div class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>Selfie week - Selfportrait</h1>
-                <p>In de selfie week werd ons gevraagd om een zelfportret te maken. Ik heb de eerste dag alleen maar nagedacht over wat ik wilde maken. Toen kwam ik bij het idee om een interactieve video te maken omdat dit een van de voorbeelden was. Ik heb online gekeken naar interactieve video’s, ik kwam op Netflix series zoals You vs. Wild en Black Mirror: Bandersnatch. Ik heb deze beide al gezien/gespeeld en vond dit heel vet. Hier wilde ik iets mee doen. Ik heb meer onderzocht en vond een <a class="link" target="_blank" href="https://eko.com/v/major-lazer">video van Major Lazer “Know no better”</a>, dit is een muziekvideo. Dit stond op de website Eko. In de video gaat het om het leven van een jongen en door te klikken op de video switch je tussen de realiteit van de jongen en zijn droom. Dit sprak me aan en kreeg het idee om ook zoiets te maken. In plaats van de realiteit en droom koos ik om iets wat ik leuk vind en iets wat ik verdrietig vind te visualiseren. Ik vind dat dit de persoon maakt die ik ben, en de opdracht luid: maak een zelfportret (Iets dat mijzelf beschrijft).</p>
+                <p>In de selfie week werd ons gevraagd om een zelfportret te maken. Ik heb de eerste dag goed nagedacht over wat ik wilde maken. Toen kwam ik bij het idee om een interactieve video te maken omdat dit een van de voorbeelden was. Ik heb online gekeken naar interactieve video’s, ik kwam op Netflix series zoals You vs. Wild en Black Mirror: Bandersnatch. Ik heb deze beide al gezien/gespeeld en vond dit heel vet. Hier wilde ik iets mee doen. Ik heb meer onderzocht en vond een <a class="link" target="_blank" href="https://eko.com/v/major-lazer">video van Major Lazer “Know no better”</a>, dit is een muziekvideo. Dit stond op de website Eko. In de video gaat het om het leven van een jongen en door te klikken op de video switch je tussen de realiteit van de jongen en zijn droom. Dit sprak me aan en kreeg het idee om ook zoiets te maken. In plaats van de realiteit en droom koos ik voor de visualisatie van iets waarvan ik gelukkig word tegenover iets waarvan ik verdrietig word. Ik vind dat dit de persoon maakt die ik ben, en de opdracht luidde: maak een zelfportret (Iets dat mijzelf beschrijft).</p>
             </div>
         </div>
         <div class="scrolling-wrapper" id="wrapper-1">
@@ -79,7 +79,7 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <div style="background-image: url({{ asset('assets/img/foto_portret_schets.png') }});background-size: contain;background-repeat: no-repeat;background-position: left;" class="commentary-singleimage"></div>
-                        <p style="max-width: 37vw;top: 0;" class="commentary-p">Hier links zie je een foto van mijn notitieboek, hier had ik opgeschreven wat mijn plan was met dit idee. Ik had opgeschreven wat mijn zelfportret moest uitstralen, waar ik blij en verdrietig van wordt. </p>
+                        <p style="max-width: 37vw;top: 0;" class="commentary-p">Hier links zie je een foto van mijn notitieboek, hier had ik opgeschreven wat mijn plan was met dit idee. Ik had opgeschreven wat mijn zelfportret moest uitstralen, waar ik blij en verdrietig van word. </p>
                     </div>
                 </div>
             </div>
@@ -87,14 +87,14 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <div style="background-image: url({{ asset('assets/img/foto_portret_timeline.png') }});background-size: contain;background-repeat: no-repeat;background-position: bottom;width: 47vw;" class="commentary-singleimage"></div>
-                        <p style="max-width: 100vw;text-align: right;top:0;" class="commentary-p">Het leek me een leuk idee om dit zelf te maken met javascript, aangezien ik al had bedacht hoe het zou werken. Dit was de eerste keer dat ik een HTML-video en Javascript samen heb gebruikt op een website.Ik ben dus wel trots ik de pagina helemaal van scratch heb gemaakt en ieder onderdeel zelf heb geschreven. En ook de video zelf heb geëdit.</p>
+                        <p style="max-width: 100vw;text-align: right;top:0;" class="commentary-p">Het leek me een leuk idee om de website zelf te maken met JavaScript, aangezien ik al had bedacht hoe het zou werken. Dit was de eerste keer dat ik een HTML-video en JavaScript samen heb gebruikt op een website. Ik ben trots dat ik de pagina helemaal van scratch heb gemaakt en ieder onderdeel zelf heb geschreven en de video zelf heb geëdit.</p>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <p style="top:7vw;left:0;text-align:left;max-width:100vw;" class="commentary-p">Het switch effect was erg simpel, twee lagen van video en als je klikt verdwijn je de bovenste laag. Ik heb dus twee video’s, een blije en een verdrietige, opgenomen. Ieder heeft drie delen om zo wat meer voorbeelden te geven. Ook heb ik het kleine logo gemaakt, de twee smileys die samensmelten. Dit heb ik in Illustrator gemaakt.</p>
+                        <p style="top:7vw;left:0;text-align:left;max-width:100vw;" class="commentary-p">Het switch effect was erg simpel, twee lagen van video en als je klikt verdwijnt de bovenste laag. Ik heb dus twee video’s opgenomen, een blije en een verdrietige. Ieder heeft drie delen om zo wat meer voorbeelden te geven. Ook heb ik het kleine logo gemaakt, de twee smileys die samensmelten. Dit heb ik in Illustrator gemaakt.</p>
                     </div>
                 </div>
             </div>
@@ -139,7 +139,7 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <p style="top:5vw;left:0;text-align:left;max-width:100vw;" class="commentary-p"><span class="highlight">Wat ik de volgende keer anders ga doen:</span> Een storyboard maken voordat ik begin met filmen, zodat ik een duidelijk en vast beeld heb om te volgen. Dit helpt je dat je aan het einde van filmen ook daadwerkelijk een verhaal hebt zoals je ingedacht had. Want wat ik merkte was dat ik niet precies wist wat we moesten filmen aangezien er geen verhaal op papier zat. En het hielp dan ook niet dat ik zelf de camera niet vasthad.</p>
+                        <p style="top:5vw;left:0;text-align:left;max-width:100vw;" class="commentary-p"><span class="highlight">Wat ik de volgende keer anders ga doen:</span> Een storyboard maken voordat ik begin met filmen, zodat ik een duidelijk en vast plan heb om te volgen. Dit helpt je dat je aan het einde van filmen ook daadwerkelijk een verhaal hebt zoals je in gedachten had. Want wat ik merkte was dat ik niet precies wist wat we moesten filmen aangezien er geen verhaal op papier stond. En het hielp dan ook niet dat ik zelf de camera niet vasthad.</p>
                     </div>
                 </div>
             </div>
@@ -153,7 +153,7 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <p style="top:5vw;left:0;text-align:left;max-width:100vw;" class="commentary-p"><span class="highlight">Wat ik hiervan heb geleerd:</span> Focus je op wat de gebruiker eerst ziet en zorg dat er een duidelijk beeld is van het begin, dan is het concept gelijk duidelijk. En ik ga de volgende keer een storyboard maken met een concreet verhaal dat ik wil vertellen. </p>
+                        <p style="top:5vw;left:0;text-align:left;max-width:100vw;" class="commentary-p"><span class="highlight">Wat ik hiervan heb geleerd:</span> Focus je op wat de gebruiker eerst ziet en zorg dat er een duidelijk beeld is van het begin, dan is het concept gelijk duidelijk. En ik ga de volgende keer een storyboard maken met een concreet verhaal dat ik wil vertellen met een tijdsplanning.</p>
                     </div>
                 </div>
             </div>

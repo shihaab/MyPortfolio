@@ -106,7 +106,7 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <p style="max-width: 100%;font-size:3.67vw;;font-weight:normal;" class="commentary-text-side">Ik heb de functie opgenomen en op YouTube gezet. En had hier wat andere oplossignen voor geprobeerd en had hier pens van gemaakt.</p>
+                        <p style="max-width: 100%;font-size:3.67vw;;font-weight:normal;" class="commentary-text-side">Ik heb de functie opgenomen en op YouTube gezet. En had hier wat andere oplossingen voor geprobeerd en had hier pens van gemaakt.</p>
                         <div class="commentary-small-video">
                         <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/IT_YY09DYHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
