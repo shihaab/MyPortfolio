@@ -90,7 +90,7 @@
         <div class="text-wrapper p-top">
             <div class="text-inner">
                 <p>
-                    De MyBrogrammers applicatie heb ik helemaal zelf gemaakt, dit is van het eerste gesprek met de opdrachtgever tot en met het beheren van de applicatie. Ik kreeg een A4tje met een paar kopjes van functionaliteiten en dat heb ik uitgewerkt tot een complete wireframe. De applicatie staat nu online en wordt gebruikt door de werknemers bij MyBrogrammers. <a class="link" target="_blank" href="https://youtu.be/4Px8nctEeLM">Video van webapp als gebruiker</a>.
+                    De MyBrogrammers applicatie heb ik helemaal zelf gemaakt, dit is van het eerste gesprek met de opdrachtgever tot en met het beheren van de applicatie. Ik kreeg een A4'tje met een paar kopjes van functionaliteiten en dat heb ik uitgewerkt tot een complete wireframe. De applicatie staat nu online en wordt gebruikt door de werknemers bij MyBrogrammers. <a class="link" target="_blank" href="https://youtu.be/4Px8nctEeLM">Video van webapp als gebruiker</a>.
                 </p>
             </div>
         </div>
