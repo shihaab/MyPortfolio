@@ -13,7 +13,7 @@
     </head>
     <body>
         <div class="head-outcome" id="interactive-media">
-            <a href="/" class="goBack">Shihaab Rouine</a>
+            <a href="/#outcome-1" class="goBack">Shihaab Rouine</a>
             <h1 style="color: #6b6b6b;">interactive media</h1>
         </div>
 

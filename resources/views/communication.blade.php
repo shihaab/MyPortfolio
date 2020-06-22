@@ -13,7 +13,7 @@
     </head>
     <body>
         <div class="head-outcome" id="design">
-            <a href="/" class="goBack">Shihaab Rouine</a>
+            <a href="/#outcome-5" class="goBack">Shihaab Rouine</a>
             <h1>communication</h1>
         </div>
         <div class="text-wrapper p-top">

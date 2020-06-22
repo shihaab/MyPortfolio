@@ -13,7 +13,7 @@
     </head>
     <body>
         <div class="head-outcome" id="professional-identity">
-            <a href="/" class="goBack">Shihaab Rouine</a>
+            <a href="/#outcome-6" class="goBack">Shihaab Rouine</a>
             <h1>professional identity</h1>
         </div>
 

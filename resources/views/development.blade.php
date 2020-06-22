@@ -13,7 +13,7 @@
     </head>
     <body>
         <div class="head-outcome" id="development">
-            <a href="/" class="goBack">Shihaab Rouine</a>    
+            <a href="/#outcome-2" class="goBack">Shihaab Rouine</a>    
             <h1>development</h1>
         </div>
 
