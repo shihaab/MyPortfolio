@@ -89,6 +89,13 @@
         </div>
         <div class="text-wrapper p-top">
             <div class="text-inner">
+                <p>
+                    De MyBrogrammers applicatie heb ik helemaal zelf gemaakt, dit is van het eerste gesprek met de opdrachtgever tot en met het beheren van de applicatie. Ik kreeg een A4tje met een paar kopjes van functionaliteiten en dat heb ik uitgewerkt tot een complete wireframe. De applicatie staat nu online en wordt gebruikt door de werknemers bij MyBrogrammers. <a class="link" target="_blank" href="https://youtu.be/4Px8nctEeLM">Video van webapp als gebruiker</a>.
+                </p>
+            </div>
+        </div>
+        <div class="text-wrapper p-top">
+            <div class="text-inner">
                 <h1>Automatisch scrollen</h1>
                 <p>
                 Ook heb ik een kort script gemaakt dat automatisch scrolt wanneer de gebruiker langs het proces scherm komt. Dit werkte maar niet echt handig voor de gebruiker, de bedoeling was dat op die manier duidelijk was dat er gescrold kon worden. Want dat was eerst niet duidelijk.
