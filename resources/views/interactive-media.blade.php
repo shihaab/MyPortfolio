@@ -61,7 +61,7 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <h2 class="commentary-text">Met dit design was de opdrachtgever blij en kon ik beginnen met realiseren.</h2>
+                        <h2 class="commentary-text">Met dit design was de opdrachtgever blij en begon ik met realiseren.</h2>
                         <div style="background-image: url({{ asset('assets/img/screenshot_mybrogrammers_1.png') }});" class="commentary-firstimage"></div>
                         <div style="background-image: url({{ asset('assets/img/screenshot_mybrogrammers_2.png') }});background-position: left;" class="commentary-secondimage"></div>
                     </div>
