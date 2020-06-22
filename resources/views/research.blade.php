@@ -81,7 +81,7 @@
                 <p>
                     Ik gebruik vaak library research als ik iets snel wil weten.
                     <br><br>Ik heb de A/B testing method gebruikt op pagina 14 in het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a>.
-                    <br>Tijdens het maken van dit proces heb ik gebruik gemaakt van de volgende methodes: <b class="stepping-stones">Inspiration Wall</b>, <b class="workshop">Prototyping</b>, <b class="workshop">Brainstorm</b>, <b class="workshop">Sketching</b>, <b class="workshop">Proof of Concept</b>, <b class="lab">A/B testing</b>, <b class="showroom">Peer Review</b> en <b class="library">Benchmark Creation</b>.
+                    <br><br>Tijdens het maken van dit proces heb ik gebruik gemaakt van de volgende methodes: <b class="stepping-stones">Inspiration Wall</b>, <b class="workshop">Prototyping</b>, <b class="workshop">Brainstorm</b>, <b class="workshop">Sketching</b>, <b class="workshop">Proof of Concept</b>, <b class="lab">A/B testing</b>, <b class="showroom">Peer Review</b> en <b class="library">Benchmark Creation</b>.
                 </p>
             </div>
         </div>
