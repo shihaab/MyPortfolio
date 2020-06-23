@@ -216,7 +216,7 @@ body::-webkit-scrollbar {
     transition: .8s;
 }
 #interactive-media-firstimage {
-    background-image: url(../img/compressed/IMG_2045.JPG);
+    background-image: url(../img/interactive_1.jpg);
 }
 #interactive-media-secondimage {
     background-image: url(../img/Character_running_still.png);
@@ -230,7 +230,7 @@ body::-webkit-scrollbar {
 }
 
 #development-firstimage {
-    background-image: url(../img/compressed/IMG_0582.JPG);
+    background-image: url(../img/development_1.jpg);
 }
 #development-secondimage {
     background-image: url(../img/compressed/IMG_1905.JPG);
@@ -245,7 +245,7 @@ body::-webkit-scrollbar {
 }
 
 #design-firstimage {
-    background-image: url(../img/IMG_0256.JPG);
+    background-image: url(../img/design_1.jpg);
 }
 #design-secondimage {
     background-image: url(../img/compressed/IMG_0549.JPG);
@@ -275,10 +275,10 @@ body::-webkit-scrollbar {
 }
 
 #communication-firstimage {
-    background-image: url(../img/compressed/IMG_2084.JPG);
+    background-image: url(../img/com_1.jpg);
 }
 #communication-secondimage {
-    background-image: url(../img/compressed/IMG_2352.JPG);
+    background-image: url(../img/com_2.jpg);
 }
 #communication-header {
     width: 20%;
