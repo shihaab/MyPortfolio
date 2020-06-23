@@ -219,7 +219,7 @@ body::-webkit-scrollbar {
     background-image: url(../img/interactive_1.jpg);
 }
 #interactive-media-secondimage {
-    background-image: url(../img/Character_running_still.png);
+    background-image: url(../img/interactive_2.jpg);
 }
 #interactive-media-header {
     width: 20%;
@@ -233,7 +233,7 @@ body::-webkit-scrollbar {
     background-image: url(../img/development_1.jpg);
 }
 #development-secondimage {
-    background-image: url(../img/compressed/IMG_1905.JPG);
+    background-image: url(../img/development_2.jpg);
 }
 #development-header {
     width: 20%;
@@ -260,10 +260,10 @@ body::-webkit-scrollbar {
 }
 
 #research-firstimage {
-    background-image: url(../img/compressed/IMG_2093.JPG);
+    background-image: url(../img/research_1.jpg);
 }
 #research-secondimage {
-    background-image: url(../img/compressed/IMG_2280.JPG   );
+    background-image: url(../img/research_2.jpg);
 }
 #research-header {
     width: 20%;
