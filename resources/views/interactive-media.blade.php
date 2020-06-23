@@ -14,6 +14,8 @@
     <body>
         <div class="head-outcome" id="interactive-media">
             <a href="/#outcome-1" class="goBack">Shihaab Rouine</a>
+            <a class="goPrev">&nbsp;</a>  
+            <a href="/development" class="goNext">&#8594;</a>  
             <h1 style="color: #6b6b6b;">interactive media</h1>
         </div>
 

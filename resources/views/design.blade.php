@@ -14,6 +14,8 @@
     <body>
         <div class="head-outcome" id="design">
             <a href="/#outcome-3" class="goBack">Shihaab Rouine</a>
+            <a href="/development" class="goPrev">&#8592;</a>  
+            <a href="/research" class="goNext">&#8594;</a>  
             <h1>design</h1>
         </div>
 

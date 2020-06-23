@@ -13,7 +13,9 @@
     </head>
     <body>
         <div class="head-outcome" id="development">
-            <a href="/#outcome-2" class="goBack">Shihaab Rouine</a>    
+            <a href="/#outcome-2" class="goBack">Shihaab Rouine</a>
+            <a href="/interactive-media" class="goPrev">&#8592;</a>  
+            <a href="/design" class="goNext">&#8594;</a>  
             <h1>development</h1>
         </div>
 

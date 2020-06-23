@@ -14,6 +14,8 @@
     <body>
         <div class="head-outcome" id="professional-identity">
             <a href="/#outcome-6" class="goBack">Shihaab Rouine</a>
+            <a href="/communication" class="goPrev">&#8592;</a>  
+            <a class="goNext">&nbsp;</a>  
             <h1>professional identity</h1>
         </div>
 
