@@ -248,7 +248,7 @@ body::-webkit-scrollbar {
     background-image: url(../img/design_1.jpg);
 }
 #design-secondimage {
-    background-image: url(../img/compressed/IMG_0549.JPG);
+    background-image: url(../img/design_2.jpg);
 }
 #design-header {
     width: 20%;
@@ -767,4 +767,8 @@ b.workshop {
 }
 b.stepping-stones {
     color: #ef4e8c;
+}
+.mini-title {
+    font-size: 2.3vw;
+    font-weight: 500;
 }
