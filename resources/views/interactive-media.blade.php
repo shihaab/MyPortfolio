@@ -38,6 +38,7 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <div class="commentary-video">
+                        <h1 class="pdf-text"><a class="link" target="_blank" href="https://xd.adobe.com/view/8b47a662-86c7-49d1-6160-fa2c4d8445eb-fd76/">MyBrogrammers UI v1</a></h1>
                             <iframe style="width: 100%; height: 100%;" src="https://xd.adobe.com/embed/8b47a662-86c7-49d1-6160-fa2c4d8445eb-fd76/" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
@@ -55,6 +56,7 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <div class="commentary-video">
+                            <h1 class="pdf-text"><a class="link" target="_blank" href="https://xd.adobe.com/view/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/">MyBrogrammers UI v2</a></h1>
                             <iframe style="width: 100%; height: 100%;" src="https://xd.adobe.com/embed/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
