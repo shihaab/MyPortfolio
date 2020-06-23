@@ -146,6 +146,7 @@
                 </div>
             </div>
         </div>
+        <div class="ending">Einde leeruitkomst, ga verder naar <a class="link" href="/research">research</a></div>
         <div class="footer" style="background-image: url({{ asset('assets/img/IMG_0908.JPG') }});filter: url();">
             <div style="width: 35vw; left: 32.5vw;">a journey of discovery</div>
         </div>

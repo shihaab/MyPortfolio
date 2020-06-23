@@ -445,6 +445,16 @@ ol li {
 .goPrev {
     left: 0;
 }
+.ending {
+    font-family: century-gothic, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.4vw;
+    padding: 2vw;;
+}
+.ending a {
+    font-weight: 700!important;
+}
 
 .head-outcome#interactive-media {
     background: url(../img/interactive-media.jpg);

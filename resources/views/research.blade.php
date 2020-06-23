@@ -93,6 +93,7 @@
                 <p>Als ik iets zie wat ik niet ken wil ik snel weten wat het is en hoe het werkt. Dit doe ik dan vaak door online op te zoeken (library research).</p>
             </div>
         </div>
+        <div class="ending">Einde leeruitkomst, ga verder naar <a class="link" href="/communication">communication</a></div>
         <div class="footer" style="background-image: url({{ asset('assets/img/IMG_0908.JPG') }});filter: url();">
             <div style="width: 35vw; left: 32.5vw;">a journey of discovery</div>
         </div>

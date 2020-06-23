@@ -146,6 +146,7 @@
             <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/shihaab/MyPortfolio" data-iframely-url="//cdn.iframe.ly/QfBZ3lp"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
             </div>
         </div>
+        <div class="ending">Einde leeruitkomst, ga verder naar <a class="link" href="/design">design</a></div>
         <div class="footer" style="background-image: url({{ asset('assets/img/IMG_0966.JPG') }});filter: url();background-position-y: center;">
             <div style="width: 35vw; left: 32.5vw;">a journey of discovery</div>
         </div>

@@ -77,64 +77,9 @@
                 </div>
             </div>
         </div>
+        <div class="ending">Einde leeruitkomst en einde portfolio, thnx voor het lezen &#128077;</div>
         <div class="footer" style="background-image: url({{ asset('assets/img/IMG_1073.JPG') }});filter: url();background-position-y: center;">
             <div style="width: 35vw; left: 32.5vw;">a journey of discovery</div>
         </div>
-        <script>
-            window.addEventListener("scroll",
-                function (event) {
-                    wrapper1();
-                    // console.log(document.getElementById("wrapper-1").scrollLeft);
-                },
-                false
-            );
-
-            var vWrapper1 = false;
-            function wrapper1() {
-                var element = document.getElementById("wrapper-1");
-                if(!vWrapper1){
-                    let scrollTop = window.scrollY,
-                    elementOffset = element.offsetTop,
-                    distance = (elementOffset - scrollTop);
-                    // console.log(distance);
-                    if(distance < 100) {
-                        vWrapper1 = true;
-                        scrollTo('wrapper-1', '500', '1500')
-                    }
-                }
-                else if(element.scrollLeft <= 0) {
-                    vWrapper1 = false;
-                }
-            }
-
-            function scrollTo(elementId, to, duration) {
-                let element = document.getElementById(elementId);
-                let start = element.scrollLeft,
-                change = to - start,
-                currentTime = 0,
-                increment = 20;
-
-                let animateScroll = function(){        
-                    currentTime += increment;
-                    let val = Math.easeInOutQuad(currentTime, start, change, duration);
-                    element.scrollLeft = val;
-                    if(currentTime < duration) {
-                        setTimeout(animateScroll, increment);
-                    }
-                };
-                animateScroll();
-            }
-
-            //t = current time
-            //b = start value
-            //c = change in value
-            //d = duration
-            Math.easeInOutQuad = function (t, b, c, d) {
-                t /= d/2;
-                if (t < 1) return c/2*t*t + b;
-                    t--;
-                return -c/2 * (t*(t-2) - 1) + b;
-            };
-        </script>
     </body>
 </html>

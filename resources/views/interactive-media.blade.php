@@ -187,7 +187,7 @@
                 <p>Ook de voorbeelden uit het vakgebied heb ik verzameld in het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a>.</p>
             </div>
         </div>
-        
+        <div class="ending">Einde leeruitkomst, ga verder naar <a class="link" href="/development">development</a></div>
         <div class="footer" style="background-image: url({{ asset('assets/img/IMG_1013.JPG') }});filter: url();background-position-y: center;">
             <div style="width: 35vw; left: 32.5vw;">a journey of discovery</div>
         </div>
