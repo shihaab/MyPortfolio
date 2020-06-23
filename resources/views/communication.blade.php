@@ -21,7 +21,8 @@
                 <h1>Effectieve communicatie</h1>
                 <p>
                     Voor het maken van de applicatie My Brogrammers moest ik veel communiceren voor ik kon realiseren. Dit was iets dat ik niet gewend was op MBO of in het startsemester. Voor mij was het een totale verandering van werkwijze en een enorm leermoment. De communicatie was essentieel om succes te behalen, als ik vast loop en niet terug koppel en vragen stel kom ik niet verder. Hier leerde ik pas echt dat vragen stellen een enorm pluspunt is in een werknemer en of student. 
-                    <br><br>Communicatie was echt een van mijn slechte eigenschappen en ben in zoverre verbeterd dat ik, en het detacheringsbureau, …Iets van “blij mee” of “een van mijn beste eigenschappen nu”… 
+                    <br><br>In het begin van het semester had ik moeite met vragen stellen aan docenten, ik deed dit dan ook zelden.  Maar nu stel ik vragen aan docenten en heb ik minder moeite met de eerste stap zetten bij de communicatie. Dit komt deels ook door de uitbraak van Corona en het digitale onderwijs, dat je wel vragen moet stellen.
+                    <br><br>Ik ben blij dat ik ben gegroeid in mijn communicatie omdat ik dit goed kan gebruiken later in het vakgebied en in de komende jaren in het onderwijs. Ook is dit een eigenschap die essentieel is buiten het professionele gebied.
                 </p>
             </div>
         </div>
@@ -30,10 +31,16 @@
                 <h1>Stakeholders</h1>
                 <p>
                 Definitie stakeholder: <span class="quote">Stakeholders zijn personen of groepen die invloed hebben op een project, afdeling of organisatie en/of er door worden beïnvloed. Diverse doelgroepen die vanuit een specifiek belang bij de onderneming betrokken zijn zoals medewerkers, ondernemingsraad, aandeelhouders, financiers en klanten.</span>
-                <br><br>Dit semester: Ik, Bern-Jan (semester-coach) en mijn moeder? (Emotionele stakeholders) 
-                <br><br>Portfolio: Ik
-                <br><br>IKAI: Luca, Sander, Rafaël, Freek, Ivo, Ananda (IKAI) en Ik
-                <br><br>My Brogrammers (detacheringsbureau): Opdrachtgever/klant, eindgebruikers en ik.
+                
+                <br><br><span class="mini-title">IKAI: Luca, Sander, Rafaël, Freek, Ivo, Ananda (IKAI) en ik.</span>
+                <br>Samen met IKAI heeft ons groepje een groepsapp gemaakt waarin we feedback hebben gevraagd en meetings hebben gepland. Daarnaast hebben we een Discord server waar we met IKAI inzitten, hier hebben we een aantal meetings in gehost. Hierin deelden we ons scherm met onze producten en lieten ons proces zien.
+                <br><br><span class="mini-title">My Brogrammers (detacheringsbureau): Opdrachtgever/klant, eindgebruikers en ik.</span>
+                <br>De communicatie met de klant ging vooral via Slack WhatsApp en Mail. Ook heb ik via het review en comment sectie in Adobe XD kunnen communiceren.
+                <br>Met mijn collega’s/eindgebruikers heb ik via Adobe XD, WhatsApp, Slack en Discord gecommuniceerd.
+                <br><br><span class="mini-title">Dit semester: Ik, Bern-Jan (semester-coach) en mijn moeder? (Emotionele stakeholders).</span>
+                <br>In het begin van het semester heb ik niet zoveel communicatie gehad met Bernd-Jan, af en toe een gesprek aan de werktafel vragen hoe het ging. Eenmaal in sociale onthouding afgesloten van de rest en geen docent die mijn lastig valt begon ik dit wel te missen. Bernd-Jan heeft daarna wekelijkse groepsupdates ingepland, dit was erg fijn want dan ben je toch iets meer verbonden met school. 
+                <br><br>Met mijn moeder had ik meer contact voor Corona, daarna zakte het steeds meer af. Dit kwam vooral door dat ik nu ook vanaf mijn vriendin kon werken en, sorry moeders maar, dat vind ik veel leuker. Ik woon trouwens nog thuis bij mijn moeder… (ish).
+
                 </p>
             </div>
         </div>
