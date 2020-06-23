@@ -34,7 +34,9 @@
             <div class="text-inner">
                 <h1>Professionele identiteit</h1>
                 <p>
-                    ...
+                Mijn huidige kennis tot nu toe: Ik heb 3 jaar een mbo-opleiding gevolgd (applicatie- en mediaontwikkeling). Daar heb ik 3 stages gevolg en de laatste in Spanje voor 6 maanden. Hierdoor heb ik veel kennis van de praktijk als webdeveloper. Op het mbo leerden we over het ontwerpen van een website en het ontwikkelen, het nadenken/onderzoeken over keuzes werd niet echt behandeld. Dit was iets waar ik wel op wilde letten en miste ik op het mbo. 
+                <br><br>Tijdens de buitenlandse stage was communicatie erg belangrijk en ook toen heb ik daar veel van geleerd. Ik vond het leuk om terug te kijken naar het begin en hoe erg ik was veranderd in maar 6 maanden. Ik vond het leuk om mezelf uit mijn comfort zone te zetten en me open te testellen voor nieuwe technieken. Dit past dan ook goed bij wie ik wil worden, iemand die verder gaat en het onbekende van zichzelf wil ontdekken.
+
                 </p>
             </div>
         </div>
@@ -42,7 +44,7 @@
             <div class="text-inner">
                 <h1>Portfolio</h1>
                 <p>
-                    ...
+                Hier verwijs ik weer naar het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a>, hierin staat beschreven waarom ik keuzes heb gemaakt en waar dit design vandaan komt. Ik heb al het werk in dit portfolio zelf gemaakt in de afgelopen 6 maanden. Dit is verdeeld onder opdrachten aangeboden door school en een detacheringsbureau waar ik sinds januari 2020 werk. In het portfolio staan reflecties en onderbouwing van bepaalde keuzes. Ook heb ik gebruik gemaakt van peer-to-peer feedback en feedback van mensen om mij heen.
                 </p>
             </div>
         </div>
@@ -50,7 +52,7 @@
             <div class="text-inner">
                 <h1>Groei</h1>
                 <p>
-                In de afgelopen 6 maanden ben ik enorm gegroeid, niet alleen in mijn professionele houding maar ook persoonlijk. Ik merk dat ik een mind-set heb aangenomen om te reflecteren wanneer er iets niet helemaal gebeurt zoals ik had gewild. Hier ben ik blij om omdat ik wel wist dat ik dit wilde doen maar het kwam er niet van. Nu reflecteer ik en bedenk ik wat ik beter kan doen de volgende keer. De volgende stap is het ook daadwerkelijk beter doen de volgende keer. Dit doet me ook denken aan een quote van Albert Einstein: “The definition of insanity is doing the same thing over and over again, but expecting different results.”.
+                In de afgelopen 6 maanden ben ik enorm gegroeid, niet alleen in mijn professionele houding maar ook persoonlijk. Ik merk dat ik een mind-set heb aangenomen om te reflecteren wanneer er iets niet helemaal gebeurt zoals ik had gewild. Hier ben ik blij om omdat ik wel wist dat ik dit wilde doen maar het kwam er niet van. Nu reflecteer ik en bedenk ik wat ik beter kan doen de volgende keer. De volgende stap is het ook daadwerkelijk beter doen de volgende keer. “The definition of insanity is doing the same thing over and over again, but expecting different results.”.
                 <br><br>Zoals ik bij de leeruitkomst communication heb beschreven, was communicatie niet mijn beste vak. Dat is in dit semester echt vooruitgegaan.
                 </p>
             </div>
