@@ -41,6 +41,10 @@ Route::get('/professional-identity', function () {
     return view('professional-identity');
 });
 
+Route::get('/shihaab', function () {
+    return view('shihaab');
+});
+
 Route::get('/selfportrait-old', function () {
     return view('selfportrait-old');
 });

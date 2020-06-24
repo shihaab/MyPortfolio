@@ -534,6 +534,23 @@ ol li {
     top: 15vh;
 }
 
+.head-outcome#shihaab {
+    
+}
+.head-outcome#shihaab h1 {
+    font-size: 12vw;
+    right: 0;
+    width: 100%;
+    top: 15vh;
+    color: black;
+    mix-blend-mode: none;
+    font-family: acier-bat-solid, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    text-align: center;
+}
+
 .info {
     width: 100vw;
     height: auto;
