@@ -22,7 +22,7 @@
         <div class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>MyBrogrammers</h1>
-                <p>Ik werk bij een detacheringsbureau voor programmeurs, de eigenaar heeft mij gevraagd om een platform te maken waar alle programmeurs de gewerkte uren kunnen invullen en de weekplanning kunnen inzien. De eigenaar van het bureau kan dan ook via dit platform de uren inzien en uitprinten.<br>Dit detacheringsbureau heet "Brogrammers" en het door mijn gemaakte platform heet "MyBrogrammers".</p>
+                <p>Ik werk bij een detacheringsbureau voor programmeurs, de eigenaar heeft mij gevraagd om een platform te maken waar alle programmeurs de gewerkte uren kunnen invullen en de weekplanning kunnen inzien. De eigenaar van het bureau kan dan ook via dit platform de uren inzien en uitprinten.<br>Dit detacheringsbureau heet "Brogrammers" en het door mijn gemaakte platform heet "MyBrogrammers" en heb dit tijdens dit semester gemaakt.</p>
             </div>
         </div>
         <div class="scrolling-wrapper" id="wrapper-1">
@@ -74,6 +74,11 @@
         </div>
         <div class="text-wrapper p-top">
             <div class="text-inner">
+                <p>Voordat ik begon met realiseren heb ik functionaliteitsversies gemaakt. Bijvoorbeeld versie 1, dit is echt de core van de applicatie dus gebruikers beheren en uren invullen en uitprinten. Versie 2 heeft functies zoals een profiel die de gebruiker kan aanpassen. Mijn werkgever gaf dan aan dat ik mocht beginnen met de eerste versie. Daar deed ik twee weken over, toen hebben we samen besloten om even te wachten en de gebruikers versie 1 te laten gebruiken om inzicht te krijgen hoe het bevalt. Daarna konden de kleinere functies toe worden gevoegd. Op het moment van schrijven beheer ik nog steeds de MyBrogrammers applicatie en voeg ik steeds nieuwe functionaliteiten toe.</p>
+            </div>
+        </div>
+        <div class="text-wrapper p-top">
+            <div class="text-inner">
                 <h1>Selfie week - Selfportrait</h1>
                 <p>In de selfie week werd ons gevraagd om een zelfportret te maken. Ik heb de eerste dag goed nagedacht over wat ik wilde maken. Toen kwam ik bij het idee om een interactieve video te maken omdat dit een van de voorbeelden was. Ik heb online gekeken naar interactieve video’s, ik kwam op Netflix series zoals You vs. Wild en Black Mirror: Bandersnatch. Ik heb deze beide al gezien/gespeeld en vond dit heel vet. Hier wilde ik iets mee doen. Ik heb meer onderzocht en vond een <a class="link" target="_blank" href="https://eko.com/v/major-lazer">video van Major Lazer “Know no better”</a>, dit is een muziekvideo. Dit stond op de website Eko. In de video gaat het om het leven van een jongen en door te klikken op de video switch je tussen de realiteit van de jongen en zijn droom. Dit sprak me aan en kreeg het idee om ook zoiets te maken. In plaats van de realiteit en droom koos ik voor de visualisatie van iets waarvan ik gelukkig word tegenover iets waarvan ik verdrietig word. Ik vind dat dit de persoon maakt die ik ben, en de opdracht luidde: maak een zelfportret (Iets dat mijzelf beschrijft).</p>
             </div>
@@ -112,7 +117,7 @@
             </div>
         </div>
         <div class="scrolling-wrapper" id="wrapper-1">
-        <span style="
+        <!-- <span style="
         position: absolute;
         bottom: 25px;
         left: 85px;
@@ -131,7 +136,7 @@
         background-color: black;
         border-radius: 5px;
         padding: 5px 7px;
-        ">Scroll</kbd></span>
+        ">Scroll</kbd></span> -->
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
@@ -172,21 +177,24 @@
                         <li><a class="link" target="_blank" href="https://xd.adobe.com/view/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/grid">xd.adobe/versie2</a></li>
                     </ol>
                     De iteratie is gemaakt op basis van feedback van de eindgebruikers, de communicatie ging via whatsapp, mail en de commentaar sectie op Adobe XD.
-                    <br><br>Ook heb ik iteraties gemaakt tijdens het proces van dit portfolio, dit is te vinden in het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a>.
+                    <br><br>Ook heb ik iteraties gemaakt tijdens het proces van dit portfolio, dit is te vinden in het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a> op pagina's 5, 6, 13, 14 en 15.
                 </p>
             </div>
         </div>
         <div class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>Gebruikersonderzoek</h1>
-                <p>Een A/B test: <a class="link" target="_blank" href="https://xd.adobe.com/view/569b4bfa-c197-4586-70d4-0664d251a863-20aa/">xd.adobe/onderzoek</a>
+                <p>
+                    Een A/B test: <a class="link" target="_blank" href="https://xd.adobe.com/view/569b4bfa-c197-4586-70d4-0664d251a863-20aa/">xd.adobe/onderzoek</a>. Ik had dit gemaakt om een keuze te maken tussen twee designs, wat jammer is is dat ik weinig reacties heb gekregen. Maar ik heb er wel voldoende aan gehad om toch een keuze te maken.
+                    <br><br><span class="highlight">Wat ik de volgende keer anders ga doen:</span> een duideijkerere vraag stellen bij zo'n test, want hier staat "overzichtelijker" en dat is redelijk vaag. Met een duideijkerere vraag krijg je (vaak) ook een duidelijk antwoord.
+                    <br><br>Ik voer eigenlijk best vaak een Gebruikersonderzoek uit, klein dan wel maar toch een onderzoek. Dit documenteer ik niet omdat ik er nog niet bij stil stond dat dit echt een onderzoek was. Ook dit is een leerpunt.
                 </p>
             </div>
         </div>
         <div style="margin-bottom: 20vh;" class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>Voorbeelden uit het vakgebied</h1>
-                <p>Ook de voorbeelden uit het vakgebied heb ik verzameld in het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a>.</p>
+                <p>Ook de voorbeelden uit het vakgebied heb ik verzameld in het <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">portfolio proces document</a> op pagina's 4, 5 en 8.</p>
             </div>
         </div>
         <div class="ending">Einde leeruitkomst, ga verder naar <a class="link" href="/development">development</a></div>

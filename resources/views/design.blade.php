@@ -77,6 +77,7 @@
         </div>
         <div class="text-wrapper p-top">
             <div class="text-inner">
+                <h1>After Effects</h1>
                 <p>Voor de specialisatie mediatechnieken werd ook gevraagd om je kennis met After Effects aan te tonen door de 3D camera tracking functie te gebruiken om een stuk tekst in de video te plaatsen. Hier heb ik twee video’s voor gemaakt. De eerste is een video met een simpel stukje tekst dat vaststaat alsof het in de ruimte zweeft. De andere drie zijn samen een proces om een stuk tekst achter de persoon op de muur te zetten.</p>
                 <br><p>Let op: de eerste video hieronder is een playlist.</p>
             </div>
@@ -103,6 +104,54 @@
         </div>
         <div class="text-wrapper p-top">
             <div class="text-inner">
+                <h1>IKAI</h1>
+            </div>
+        </div>
+        <div class="scrolling-wrapper" id="wrapper-1">
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <p style="max-width: 100vw;top: 50vh;font-size: 2.5vw;text-align: left;" class="commentary-p">Voor IKAI gingen we ook een website maken, ik zou dit doen samen met Ivo. We hadden afgesproken om apart te onderzoeken en te schetsen en daarna samen tot een conclusie te komen. Ik had een design gemaakt, hierboven. Hier ging ik mee verder.</p>
+                        <div style="background-image: url({{ asset('assets/img/ikai_design_2.png') }});background-position: top;width: 100%;height: 47vh;" class="commentary-firstimage"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <div style="background-image: url({{ asset('assets/img/ikai_design_1.png') }});background-size: contain;background-repeat: no-repeat;background-position: left;" class="commentary-singleimage"></div>
+                        <p style="max-width: 37vw;top: 0;" class="commentary-p">Op de canva die IKAI ons lietzien bij de eerste introductie stond een illustratie van IKAI, deze heb ik dus zelf niet gemaakt, deze mochten we gebruiken. Hieronder zou dan zijn muziek video komen die op repeat afspeeld. Ook zijn er linkjes naar de fotos, tours en merchandise. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <p style="top:7vw;left:0;text-align:left;max-width:100vw;" class="commentary-p">Toen bleek uit een meeting met IKAI dat hij dit design niks vond, hij wilde ineens iets surrealistisch. Dit was niet realistisch qua de tijd die we hadden. We besloten om verder te zoeken. Hier heb ik zelf een kort <a class="link" target="_blank" href="/assets/files/onderzoek website ikai.pdf">verzamelingsdocument</a> van gemaakt. Hierin staat een kort onderzoek en hoe ik bij het volgende design kwam. Ook wat inspiratie om voor de linkjes op de pagina.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <h2 style="font-weight: 400;" class="commentary-text">Ivo heeft versie 2 verder uitgewerkt met een deel van mijn onderzoek.</h2>
+                        <div style="background-image: url({{ asset('assets/img/ikai_van_1.png') }});background-position: right;" class="commentary-firstimage"></div>
+                        <div style="background-image: url({{ asset('assets/img/ikai_van_2.png') }});background-position: center;" class="commentary-secondimage"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <div style="background-image: url({{ asset('assets/img/ikai_design_3.png') }});background-size: contain;background-repeat: no-repeat;background-position: bottom;" class="commentary-singleimage"></div>
+                        <p style="max-width: 100vw;text-align: left;top:0;" class="commentary-p">Ik heb ook wat losse dingen geprobeerd voor IKAI. IKAI had een Pinterest gestuurd van illustraties die hij vet vond. Ik heb er twee van gekozen en heb er een IKAI versie van gemaakt. Ik kon het uiteindelijk nergens voor gebruiken en heb het aangepast voor de sprint review presentatie. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-wrapper p-top">
+            <div class="text-inner">
+                <h1>Portfolio proces</h1>
                 <p>Toen ik net begon met het bedenken van een portfolio design heb ik wat ideeen kunnen documenteren. Dit heb ik toen gedaan voor de eerste portfolio review. </p>
             </div>
         </div>
@@ -114,7 +163,8 @@
         </div>
         <div class="text-wrapper p-top">
             <div class="text-inner">
-                <p>Voor de specialisatie mediatechnieken heb ik een poster gemaakt in Photoshop van de film “The Pursuit Of Happyness”.</p>
+                <h1>Film poster</h1>
+                <p>Voor de specialisatie mediatechnieken heb ik een poster gemaakt in Photoshop van de film “The Pursuit Of Happyness”. Ik weet nog dat mijn vader dit echt een mooie film vond en daarom heb ik hem ook in de poster gezet. De film spreekt veel over wat echt belangrijk is in het leven en hoe moeilijk het soms kan zijn. Dat je op het dieptepunt toch door moet en dat vind ik erg mooi. </p>
             </div>
         </div>
         <div class="pdf-wrapper p-top">

@@ -28,6 +28,24 @@
                 </p>
             </div>
         </div>
+        <div class="scrolling-wrapper" id="wrapper-2">
+            <div class="card">
+                <div class="commentary" style="padding-top: 0;">
+                    <div class="commentary-inner">
+                        <div class="commentary-video" style="background-image: url({{ asset('assets/img/communicatie_feedback_bernd_jan.png') }});background-size: contain;background-repeat: no-repeat;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <p style="top:0;left:0;text-align:left;max-width:100vw;" class="commentary-p"><span class="quote">Je komt communicatief sterk en vaardig over in persoon, en in videogesprekken. De visuele presentatie van je werk komt ook sterk over, de structurele presentatie en inhoudelijke toelichting nu nog niet.</span> – Bernd-Jan Witkamp
+                        <br>Ik heb Bernd-Jan gevraagd om feedback te geven op mijn communicatie met hem dit semester.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div style="margin-bottom: 20vh;" class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>Stakeholders</h1>
