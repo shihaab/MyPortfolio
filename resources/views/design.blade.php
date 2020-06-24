@@ -127,7 +127,7 @@
             <div class="card">
                 <div class="commentary">
                     <div class="commentary-inner">
-                        <p style="top:7vw;left:0;text-align:left;max-width:100vw;" class="commentary-p">Toen bleek uit een meeting met IKAI dat hij dit design niks vond, hij wilde ineens iets surrealistisch. Dit was niet realistisch qua de tijd die we hadden. We besloten om verder te zoeken. Hier heb ik zelf een kort <a class="link" target="_blank" href="/assets/files/onderzoek website ikai.pdf">verzamelingsdocument</a> van gemaakt. Hierin staat een kort onderzoek en hoe ik bij het volgende design kwam. Ook wat inspiratie om voor de linkjes op de pagina.</p>
+                        <p style="top:5vw;left:0;text-align:left;max-width:100vw;" class="commentary-p">Toen bleek uit een meeting met IKAI dat hij dit design niks vond, hij wilde ineens iets surrealistisch. Dit was niet realistisch qua de tijd die we hadden. We besloten om verder te zoeken. Hier heb ik zelf een kort <a class="link" target="_blank" href="/assets/files/onderzoek website ikai.pdf">verzamelingsdocument</a> van gemaakt. Hierin staat een kort onderzoek en hoe ik bij het volgende design kwam. Ook wat inspiratie voor de linkjes op de pagina. Versie 1 en 2 hier rechts (versie 1 links, 2 rechts).</p>
                     </div>
                 </div>
             </div>
@@ -144,7 +144,7 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <div style="background-image: url({{ asset('assets/img/ikai_design_3.png') }});background-size: contain;background-repeat: no-repeat;background-position: bottom;" class="commentary-singleimage"></div>
-                        <p style="max-width: 100vw;text-align: left;top:0;" class="commentary-p">Ik heb ook wat losse dingen geprobeerd voor IKAI. IKAI had een Pinterest gestuurd van illustraties die hij vet vond. Ik heb er twee van gekozen en heb er een IKAI versie van gemaakt. Ik kon het uiteindelijk nergens voor gebruiken en heb het aangepast voor de sprint review presentatie. </p>
+                        <p style="max-width: 100vw;text-align: left;top:0;" class="commentary-p">Ik heb ook wat losse dingen geprobeerd voor IKAI. IKAI had een Pinterest gestuurd van illustraties die hij vet vond. Ik heb er een van gekozen en heb er een IKAI versie van gemaakt. Ik kon het uiteindelijk nergens voor gebruiken en heb het aangepast voor de sprint review presentatie. </p>
                     </div>
                 </div>
             </div>

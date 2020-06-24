@@ -186,8 +186,9 @@
                 <h1>Gebruikersonderzoek</h1>
                 <p>
                     Een A/B test: <a class="link" target="_blank" href="https://xd.adobe.com/view/569b4bfa-c197-4586-70d4-0664d251a863-20aa/">xd.adobe/onderzoek</a>. Ik had dit gemaakt om een keuze te maken tussen twee designs, wat jammer is is dat ik weinig reacties heb gekregen. Maar ik heb er wel voldoende aan gehad om toch een keuze te maken.
+                    <br>Ik heb ook gebruikersonderzoeken uitgevoerd in het proces van mijn portfolio, deze staan in <a class="link" target="_blank" href="/assets/files/Portfolio%20Proces%20Shihaab%20Rouine%20v3.pdf">het document</a> op pagina's 6, 14 en 15.
                     <br><br><span class="highlight">Wat ik de volgende keer anders ga doen:</span> een duideijkerere vraag stellen bij zo'n test, want hier staat "overzichtelijker" en dat is redelijk vaag. Met een duideijkerere vraag krijg je (vaak) ook een duidelijk antwoord.
-                    <br><br>Ik voer eigenlijk best vaak een Gebruikersonderzoek uit, klein dan wel maar toch een onderzoek. Dit documenteer ik niet omdat ik er nog niet bij stil stond dat dit echt een onderzoek was. Ook dit is een leerpunt.
+                    <br><br>Ik voer eigenlijk best vaak een Gebruikersonderzoek uit, klein dan wel maar toch een onderzoek. Dit documenteer ik niet omdat ik er nog niet bij stil stond dat dit echt een onderzoek was. Ook dit is een leerpunt voor mij.
                 </p>
             </div>
         </div>
