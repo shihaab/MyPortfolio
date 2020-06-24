@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}"/>
     </head>
     <body>
-        <div class="head-outcome" id="design">
+        <div class="head-outcome" id="communication">
             <a href="/#outcome-5" class="goBack">Shihaab Rouine</a>
             <a href="/research" class="goPrev">&#8592;</a>  
             <a href="/professional-identity" class="goNext">&#8594;</a>  
@@ -65,7 +65,7 @@
             </div>
         </div>
         <div class="ending">Einde leeruitkomst, ga verder naar <a class="link" href="/professional-identity">professional identity</a></div>
-        <div class="footer" style="background-image: url({{ asset('assets/img/IMG_0908.JPG') }});filter: url();">
+        <div class="footer" style="background-image: url({{ asset('assets/img/IMG_0947.JPG') }});filter: url();background-position: center;">
             <div style="width: 35vw; left: 32.5vw;">a journey of discovery</div>
         </div>
     </body>

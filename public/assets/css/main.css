@@ -495,6 +495,32 @@ ol li {
     top: 15vh;
 }
 
+.head-outcome#research {
+    background: url(../img/compressed/IMG_2203.JPG);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.head-outcome#research h1 {
+    font-size: 12vw;
+    right: 0;
+    width: 100%;
+    top: 15vh;
+}
+
+.head-outcome#communication {
+    background: url(../img/IMG_0792.JPG);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.head-outcome#communication h1 {
+    font-size: 12vw;
+    right: 0;
+    width: 100%;
+    top: 15vh;
+}
+
 .head-outcome#professional-identity {
     background: url(../img/compressed/IMG_2276.JPG);
     background-size: cover;
