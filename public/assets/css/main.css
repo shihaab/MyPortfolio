@@ -454,6 +454,9 @@ ol li {
 }
 .ending a {
     font-weight: 700!important;
+    
+}
+.ending .d {
     top: -4px;
     position: relative;
 }
