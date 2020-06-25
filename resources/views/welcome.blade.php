@@ -35,7 +35,7 @@
 
         <div class="wrapper-a">
             <a href="#going-further" class="scroll-down">look further</a>
-            <ul class="nav">
+            <!-- <ul class="nav">
                 <li>
                     <a href="">Curricula Vitae</a>
                 </li>
@@ -45,7 +45,7 @@
                 <li>
                     <a href="">Projects</a>
                 </li>
-            </ul>
+            </ul> -->
             <div class="landing-title"><p>Shihaab</p> <p class="b">Rouine</p></div>
         </div>
         <div class="wrapper-b" id="going-further">
