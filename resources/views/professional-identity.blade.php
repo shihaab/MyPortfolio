@@ -77,7 +77,7 @@
                 </div>
             </div>
         </div>
-        <div class="ending">Einde leeruitkomst en einde portfolio, <a class="link" href="/shihaab" title="Een nuchter stukje over dit semester">&#128077;</a></div>
+        <div class="ending">Einde leeruitkomst en einde portfolio <a class="link" href="/shihaab" title="Een nuchter stukje over dit semester">&#128077;</a></div>
         <div class="footer" style="background-image: url({{ asset('assets/img/IMG_1073.JPG') }});filter: url();background-position-y: center;">
             <div style="width: 35vw; left: 32.5vw;">a journey of discovery</div>
         </div>
