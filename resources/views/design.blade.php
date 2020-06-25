@@ -44,7 +44,10 @@
         <div class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>Visuele ontwerpen</h1>
-                <p>Hier zijn twee Instagram story’s die ik heb gemaakt in Premiere Pro voor de specialisatie mediatechnieken, toen ik begon had ik de opdracht verkeerd gelezen en dacht ik dat de video max 50 seconden mocht duren (moest eigenlijk dus 15 seconden). Toen ik dit door had, had ik de video al geëxporteerd. </p>
+                <p>
+                    Hier zijn twee Instagram story’s die ik heb gemaakt in Premiere Pro voor de specialisatie mediatechnieken, toen ik begon had ik de opdracht verkeerd gelezen en dacht ik dat de video max 50 seconden mocht duren (moest eigenlijk dus 15 seconden). Toen ik dit door had, had ik de video al geëxporteerd.
+                    <br><br>De Instagram story heb ik gemaakt voor een fictieve game die ik in het startsemester met Ivo heb bedacht. Het doel is om de Instagram story in de stijl van de game te maken. Dan weet de kijker ook gelijk meer over de sfeer van de game.
+                </p>
             </div>
         </div>
         <div class="scrolling-wrapper" id="wrapper-2">
@@ -61,7 +64,7 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <h2 class="commentary-text">15s versie rechts</h2>
-                        <p class="commentary-p">Ik moest dus de video inkorten en had nu ook de kans om andere aanpassingen te maken. Ik vond de video wel spannend maar te vrolijk voor wat ik wilde bereiken. Daarom heb ik voor de tweede versie een minder agressieve kleurencorrectie gekozen zodat het wat depressiever overkomt. </p>
+                        <p class="commentary-p">Ik moest dus de video inkorten en had nu ook de kans om andere aanpassingen te maken. Ik vond de video wel spannend maar te vrolijk voor de game zelf. Daarom heb ik voor de tweede versie een minder agressieve kleurencorrectie gekozen zodat het wat depressiever overkomt.</p>
                     </div>
                 </div>
             </div>
@@ -74,12 +77,21 @@
                     </div>
                 </div>
             </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <p style="text-align: left; left:0; max-width: 100%;top:13vw;" class="commentary-p">Ik ben blij met het resultaat van de uitstraling van de video. Omdat ik het doel om de video de sfeer van de game uit te stralen nu heb behaald.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>After Effects</h1>
-                <p>Voor de specialisatie mediatechnieken werd ook gevraagd om je kennis met After Effects aan te tonen door de 3D camera tracking functie te gebruiken om een stuk tekst in de video te plaatsen. Hier heb ik twee video’s voor gemaakt. De eerste is een video met een simpel stukje tekst dat vaststaat alsof het in de ruimte zweeft. De andere drie zijn samen een proces om een stuk tekst achter de persoon op de muur te zetten.</p>
-                <br><p>Let op: de eerste video hieronder is een playlist.</p>
+                <p>
+                    Voor de specialisatie mediatechnieken werd ook gevraagd om je kennis met After Effects aan te tonen door de 3D camera tracking functie te gebruiken om een stuk tekst in de video te plaatsen. Hier heb ik twee video’s voor gemaakt. De eerste is een video met een simpel stukje tekst dat vaststaat alsof het in de ruimte zweeft. De andere drie zijn samen een proces om een stuk tekst achter de persoon op de muur te zetten.
+                <br><br>Let op: de eerste video hieronder is een playlist.
+                </p>
             </div>
         </div>
         <div class="scrolling-wrapper" id="wrapper-2">
@@ -159,7 +171,7 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                     <h2 class="commentary-text">Blije versie rechts</h2>
-                        <p class="commentary-p">Voor de selfie week heb ik twee videos opgenomen en geëdit, een blije en een verdrietige. Dit heb ik gedaan in Premiere Pro en hier ben ik bekent mee. Meer van dit proces staat bij interactive media.</p>
+                        <p style="max-width:100%;" class="commentary-p">Voor de selfie week heb ik twee video's opgenomen en geëdit, een blije en een verdrietige. Dit heb ik gedaan in Premiere Pro. Meer van dit proces staat bij interactive media. Ik wil dat de video's echt de emotie overbrengen, dit kan ik op verschillende manieren doen. Ik koos om een filter/kleurencorrectie op de video's en muziek toe te voegen.</p>
                     </div>
                 </div>
             </div>
@@ -192,6 +204,17 @@
         </div>
         <div class="text-wrapper p-top">
             <div class="text-inner">
+                <p>Voor de blije versie heb ik gekozen voor een warme rood/paarsachtige kleur. Omdat die kleur goed bij de blije emotie past en een vrolijk gevoel geeft. 
+
+                <br><br>En voor de verdrietige versie een meer neutrale blauwe kleur. Omdat dit wat donkerder en killer overkomt.
+
+                <br><br>Voor de muziek vond ik het lastig om een keuze te maken omdat het zowel een blije als verdrietige uitstraling moest hebben omdat het voor beide video's is. Ik heb gekozen voor dit liedje omdat dit een combinatie is van twee verschillende stijlen en daardoor kun je er twee kanten mee op.
+
+                <br><br>Nu stralen de versies ieder een eigen emotie uit, dit versterkt de smiley die op de website staat. <a class="link" target="_blank" href="/selfportrait">Het resultaat</a>.</p>
+            </div>
+        </div>
+        <div class="text-wrapper p-top">
+            <div class="text-inner">
                 <h1>Portfolio proces</h1>
                 <p>Toen ik net begon met het bedenken van een portfolio design heb ik wat ideeen kunnen documenteren. Dit heb ik toen gedaan voor de eerste portfolio review. </p>
             </div>
@@ -205,7 +228,11 @@
         <div class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>Film poster</h1>
-                <p>Voor de specialisatie mediatechnieken heb ik een poster gemaakt in Photoshop van de film “The Pursuit Of Happyness”. Ik weet nog dat mijn vader dit echt een mooie film vond en daarom heb ik hem ook in de poster gezet. De film spreekt veel over wat echt belangrijk is in het leven en hoe moeilijk het soms kan zijn. Dat je op het dieptepunt toch door moet en dat vind ik erg mooi. </p>
+                <p>
+                    Voor de specialisatie mediatechnieken heb ik een poster gemaakt in Photoshop van de film “The Pursuit Of Happyness”. Ik weet nog dat mijn vader dit echt een mooie film vond en daarom heb ik hem ook in de poster gezet. De film spreekt veel over wat echt belangrijk is in het leven en hoe moeilijk het soms kan zijn. Dat je op het dieptepunt toch door moet en dat vind ik erg mooi.
+                    <br><br>Ik heb gekozen om hem kijkend in de straten van San Francisco te hebben staan. Omdat de hoofdpersoon in de film steeds verder moet kijken waar hij nu weer heen moet om geld vandaan te krijgen. De achtergrond is een foto van de straat van San Francisco uit 1980, dit omdat de film zich afspeeld in 1981. Om nog een duidelijker element van de stad in de poster te creëren heb ik de skyline van de stad ook uit 1980 onderin vervaagd erin geëdit.
+                    <br><br>Ook heeft hij de tas vast die Will Smith in de film vaak bij heeft. Ik heb de tekst "HAPPY" in een roze highlight gezet, omdat dit ook bij de officiële poster is.
+                </p>
             </div>
         </div>
         <div class="pdf-wrapper p-top">

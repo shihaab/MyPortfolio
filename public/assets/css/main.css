@@ -454,6 +454,8 @@ ol li {
 }
 .ending a {
     font-weight: 700!important;
+    top: -4px;
+    position: relative;
 }
 
 .head-outcome#interactive-media {

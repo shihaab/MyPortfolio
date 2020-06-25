@@ -12,7 +12,6 @@
         <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}"/>
     </head>
     <body>
-        <div class="ending">Niet veel mensen zullen dit lezen, dit was meer bedoeld voor de die-hard die toch even deze link heeft gevonden.</div>
         <div class="head-outcome" id="shihaab">
             <a style="top:0;" href="/" class="goBack">Shihaab Rouine</a>
             <h1>veel geleerd</h1>
