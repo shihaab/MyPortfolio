@@ -176,7 +176,7 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <h2 class="commentary-text">Verdrietige versie rechts</h2>
-                        <p class="commentary-p">De verdrietige versie ging in de praktijk niet zo goed omdat ik het eerste deel niet had gefilmd en er een foto ter vervanging had geplaatst.</p>
+                        <p class="commentary-p">De verdrietige versie ging in de praktijk niet zo goed omdat ik het eerste deel niet had gefilmd en er een foto ter vervanging had geplaatst. Daarom begint de volgende video vanaf het tweede deel. </p>
                     </div>
                 </div>
             </div>
