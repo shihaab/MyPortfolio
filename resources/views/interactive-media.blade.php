@@ -38,8 +38,8 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <div class="commentary-video">
-                        <h1 class="pdf-text"><a class="link" target="_blank" href="https://xd.adobe.com/view/8b47a662-86c7-49d1-6160-fa2c4d8445eb-fd76/">MyBrogrammers UI v1</a></h1>
-                            <iframe style="width: 100%; height: 100%;" src="https://xd.adobe.com/embed/8b47a662-86c7-49d1-6160-fa2c4d8445eb-fd76/" frameborder="0" allowfullscreen></iframe>
+                            <h1 class="pdf-text"><a class="link" target="_blank" href="https://xd.adobe.com/view/8b47a662-86c7-49d1-6160-fa2c4d8445eb-fd76/">MyBrogrammers UI v1</a><b title="refresh iframe" onclick="refresh('mybrogrammersv1')" class="refresh"></b></h1>
+                            <iframe style="width: 100%; height: 100%;" src="https://xd.adobe.com/embed/8b47a662-86c7-49d1-6160-fa2c4d8445eb-fd76/" frameborder="0" allowfullscreen id="mybrogrammersv1"></iframe>
                         </div>
                     </div>
                 </div>
@@ -56,8 +56,8 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <div class="commentary-video">
-                            <h1 class="pdf-text"><a class="link" target="_blank" href="https://xd.adobe.com/view/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/">MyBrogrammers UI v2</a></h1>
-                            <iframe style="width: 100%; height: 100%;" src="https://xd.adobe.com/embed/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/" frameborder="0" allowfullscreen></iframe>
+                            <h1 class="pdf-text"><a class="link" target="_blank" href="https://xd.adobe.com/view/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/">MyBrogrammers UI v2</a><b title="refresh iframe" onclick="refresh('mybrogrammersv2')" class="refresh"></b></h1>
+                            <iframe style="width: 100%; height: 100%;" src="https://xd.adobe.com/embed/f1b96907-bb8b-4afa-4801-f71cf58459ce-8788/" frameborder="0" allowfullscreen id="mybrogrammersv2"></iframe>
                         </div>
                     </div>
                 </div>
@@ -202,5 +202,11 @@
         <div class="footer" style="background-image: url({{ asset('assets/img/IMG_1013.JPG') }});filter: url();background-position-y: center;">
             <div style="width: 35vw; left: 32.5vw;">a journey of discovery</div>
         </div>
+        <script>
+            function refresh(id) {
+                var iframe = document.getElementById(id);
+                iframe.src = iframe.src;
+            }
+        </script>
     </body>
 </html>
