@@ -216,7 +216,7 @@
         <div class="text-wrapper p-top">
             <div class="text-inner">
                 <h1>Portfolio proces</h1>
-                <p>Toen ik net begon met het bedenken van een portfolio design heb ik wat ideeen kunnen documenteren. Dit heb ik toen gedaan voor de eerste portfolio review. </p>
+                <p>Toen ik net begon met het bedenken van een portfolio design heb ik wat ideeen kunnen documenteren. Dit heb ik toen gedaan voor de eerste portfolio review. Hierin staan onder andere onderbouwingen van keuzes die ik heb gemaakt.</p>
             </div>
         </div>
         <div class="pdf-wrapper p-top">
