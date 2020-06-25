@@ -745,6 +745,7 @@ h2.commentary-text-side {
     font-style: normal;
     text-align: left;
     white-space: normal;
+    width: 100%;
 }
 
 .scrolling-wrapper {
@@ -851,4 +852,17 @@ b.stepping-stones {
 .mini-title {
     font-size: 2.3vw;
     font-weight: 500;
+}
+.refresh::after {
+    content: '\21BB';
+    cursor: pointer;
+}
+.refresh {
+    transition: .3s;
+    float: right;
+    color: #C8C4FA;
+}
+.refresh:hover {
+    opacity: .4;
+    transform: rotate(45deg);
 }
