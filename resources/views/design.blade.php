@@ -24,7 +24,7 @@
                 <div class="commentary">
                     <div class="commentary-inner">
                         <h2 class="commentary-text" style="font-size: 5vw;">Professionele toolset</h2>
-                        <div style="background-image: url(https://www.adobe.com/content/dam/offers-homepage/us/en/homepage/lobby-acrobat-032320-mobile-1440x810.jpg.img.jpg);" class="commentary-firstimage"></div>
+                        <div style="background-image: url({{ asset('assets/img/design-acrobat.jpg')}});" class="commentary-firstimage"></div>
                         <div style="background-image: url({{ asset('assets/img/xd.svg') }});" class="commentary-secondimage"></div>
                     </div>
                 </div>
@@ -145,6 +145,47 @@
                     <div class="commentary-inner">
                         <div style="background-image: url({{ asset('assets/img/ikai_design_3.png') }});background-size: contain;background-repeat: no-repeat;background-position: bottom;" class="commentary-singleimage"></div>
                         <p style="max-width: 100vw;text-align: left;top:0;" class="commentary-p">Ik heb ook wat losse dingen geprobeerd voor IKAI. IKAI had een Pinterest gestuurd van illustraties die hij vet vond. Ik heb er een van gekozen en heb er een IKAI versie van gemaakt. Ik kon het uiteindelijk nergens voor gebruiken en heb het aangepast voor de sprint review presentatie. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-wrapper p-top">
+            <div class="text-inner">
+                <h1>Selfie week</h1>
+            </div>
+        </div>
+        <div class="scrolling-wrapper" id="wrapper-2">
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                    <h2 class="commentary-text">Blije versie rechts</h2>
+                        <p class="commentary-p">Voor de selfie week heb ik twee videos opgenomen en geëdit, een blije en een verdrietige. Dit heb ik gedaan in Premiere Pro en hier ben ik bekent mee. Meer van dit proces staat bij interactive media.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <div class="commentary-video">
+                            <iframe style="width: 100%" height="100%" src="https://www.youtube.com/embed/XYJKB3zwHGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <h2 class="commentary-text">Verdrietige versie rechts</h2>
+                        <p class="commentary-p">De verdrietige versie ging in de praktijk niet zo goed omdat ik het eerste deel niet had gefilmd en er een foto ter vervanging had geplaatst.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="commentary">
+                    <div class="commentary-inner">
+                        <div class="commentary-video">
+                            <iframe style="width: 100%" height="100%" src="https://www.youtube.com/embed/MRDyj1Dqr1Q?start=45" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
                     </div>
                 </div>
             </div>
